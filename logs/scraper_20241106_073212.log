@@ -1,0 +1,55 @@
+2024-11-06 07:32:12,463 - INFO - Starting VnExpress scraper...
+2024-11-06 07:32:12,466 - DEBUG - Starting new HTTPS connection (1): vnexpress.net:443
+2024-11-06 07:32:12,892 - DEBUG - https://vnexpress.net:443 "GET /the-gioi HTTP/11" 200 None
+2024-11-06 07:32:13,129 - DEBUG - Successfully fetched page content
+2024-11-06 07:32:13,194 - INFO - Found 48 potential article elements
+2024-11-06 07:32:13,196 - DEBUG - No valid timestamp found for article: Live Báo Mỹ nói Donald Trump đắc cử tổng thống Mỹ
+2024-11-06 07:32:13,197 - DEBUG - No valid timestamp found for article: Live Ông Trump phát biểu mừng chiến thắng
+2024-11-06 07:32:13,199 - DEBUG - No valid timestamp found for article: Live Ông Trump áp đảo ở các bang chiến trường
+2024-11-06 07:32:13,200 - DEBUG - No valid timestamp found for article: Tâm trạng người Mỹ trong lúc chờ kết quả bầu cử
+2024-11-06 07:32:13,201 - DEBUG - No valid timestamp found for article: Đảng Cộng hòa giành đa số Thượng viện Mỹ
+2024-11-06 07:32:13,203 - DEBUG - No valid timestamp found for article: Barron Trump lần đầu đi bỏ phiếu
+2024-11-06 07:32:13,204 - DEBUG - No valid timestamp found for article: Vui, buồn của phe Cộng hòa - Dân chủ khi ông Trump dẫn trước
+2024-11-06 07:32:13,204 - DEBUG - No title element found
+2024-11-06 07:32:13,205 - DEBUG - No valid timestamp found for article: Nevada gặp rắc rối vì cử tri trẻ không biết ký tên
+2024-11-06 07:32:13,207 - DEBUG - No valid timestamp found for article: Nước Mỹ trong ngày bầu cử
+2024-11-06 07:32:13,208 - DEBUG - No valid timestamp found for article: Những người nhập cư Mỹ nêu lý do bầu cho ông Trump
+2024-11-06 07:32:13,210 - DEBUG - No valid timestamp found for article: Cử tri kiện Elon Musk vì không chọn ngẫu nhiên người nhận một triệu USD
+2024-11-06 07:32:13,212 - DEBUG - No valid timestamp found for article: Cử tri ủng hộ ông Trump về kinh tế, bà Harris về quyền phá thai
+2024-11-06 07:32:13,213 - DEBUG - No valid timestamp found for article: Truyền thông Mỹ xướng tên người đắc cử thế nào
+2024-11-06 07:32:13,214 - DEBUG - No valid timestamp found for article: Lý do Mỹ khó công bố người chiến thắng ngay đêm bầu cử
+2024-11-06 07:32:13,216 - DEBUG - No valid timestamp found for article: Người Mỹ gốc Việt nêu lý do bầu cho Trump, Harris
+2024-11-06 07:32:13,217 - DEBUG - No valid timestamp found for article: Thủ tướng Israel sa thải Bộ trưởng Quốc phòng
+2024-11-06 07:32:13,219 - DEBUG - No valid timestamp found for article: Người dân khắp thế giới theo dõi bầu cử tổng thống Mỹ
+2024-11-06 07:32:13,220 - DEBUG - No valid timestamp found for article: Nga cáo buộc Ukraine định chiếm nhà máy điện hạt nhân ở Kursk
+2024-11-06 07:32:13,222 - DEBUG - No valid timestamp found for article: Nỗi stress của cử tri Mỹ trong kỳ bầu cử
+2024-11-06 07:32:13,223 - DEBUG - No valid timestamp found for article: Cách giới chức Mỹ ngăn 'phiếu bầu ma'
+2024-11-06 07:32:13,224 - DEBUG - No valid timestamp found for article: Lý do ông Trump vẫn được bỏ phiếu dù đã bị kết tội
+2024-11-06 07:32:13,226 - DEBUG - No valid timestamp found for article: Tiêm kích Ấn Độ 'xoay như lá vàng' khi rơi xuống đất
+2024-11-06 07:32:13,227 - DEBUG - No valid timestamp found for article: Người Ấn Độ tới đền thờ cầu nguyện cho bà Harris đắc cử
+2024-11-06 07:32:13,229 - DEBUG - No valid timestamp found for article: Ẩn số từ cử tri thầm lặng trong bầu cử Mỹ
+2024-11-06 07:32:13,230 - DEBUG - No valid timestamp found for article: Máy bỏ phiếu bầu tổng thống Mỹ hoạt động như thế nào?
+2024-11-06 07:32:13,231 - DEBUG - No valid timestamp found for article: Phát biểu khép lại chiến dịch tranh cử của Trump - Harris
+2024-11-06 07:32:13,233 - DEBUG - No valid timestamp found for article: Thủ tướng tặng chân dung Chủ tịch Hồ Chí Minh cho khu di tích ở Vân Nam
+2024-11-06 07:32:13,234 - DEBUG - No valid timestamp found for article: Ông Trump cáo buộc 'gian lận tràn lan' ở Philadelphia
+2024-11-06 07:32:13,236 - DEBUG - No valid timestamp found for article: Vua Tây Ban Nha được ca ngợi vì đứng vững trước đám đông ném bùn
+2024-11-06 07:32:13,237 - DEBUG - No valid timestamp found for article: Ông Zelensky: Nga phóng UAV vào Ukraine nhiều gấp 10 lần năm ngoái
+2024-11-06 07:32:13,238 - DEBUG - No valid timestamp found for article: Hà mã 'ngôi sao' của Thái Lan dự đoán ông Trump đắc cử
+2024-11-06 07:32:13,240 - DEBUG - No valid timestamp found for article: Ông Trump chọn 'thành phố đặc biệt' làm điểm vận động cuối cùng
+2024-11-06 07:32:13,241 - DEBUG - No valid timestamp found for article: Những gia đình Mỹ bất đồng quan điểm vì bầu cử tổng thống
+2024-11-06 07:32:13,243 - DEBUG - No valid timestamp found for article: UAV Lancet có thể đã tập kích hơn 2.500 mục tiêu ở Ukraine
+2024-11-06 07:32:13,244 - DEBUG - No valid timestamp found for article: Những hình ảnh định hình mùa bầu cử tổng thống Mỹ
+2024-11-06 07:32:13,245 - DEBUG - No valid timestamp found for article: Trump - Harris hòa nhau tại điểm bỏ phiếu đầu tiên
+2024-11-06 07:32:13,247 - DEBUG - No valid timestamp found for article: Người dẫn chương trình podcast nổi tiếng tuyên bố ủng hộ ông Trump
+2024-11-06 07:32:13,248 - DEBUG - No valid timestamp found for article: Ông Trump nói bà Harris 'nên đấu với Mike Tyson'
+2024-11-06 07:32:13,250 - DEBUG - No valid timestamp found for article: Cách người Mỹ bỏ phiếu và kiểm đếm kết quả bầu cử
+2024-11-06 07:32:13,251 - DEBUG - No valid timestamp found for article: Bà Harris gõ cửa nhà dân trước giờ bầu cử
+2024-11-06 07:32:13,253 - DEBUG - No valid timestamp found for article: Israel tuyên bố tập kích 'sở chỉ huy tình báo Hezbollah' tại Syria
+2024-11-06 07:32:13,254 - DEBUG - No valid timestamp found for article: Thủ tướng Phạm Minh Chính lên đường tới Trung Quốc
+2024-11-06 07:32:13,255 - DEBUG - No valid timestamp found for article: Thông điệp đối chọi của Trump và Harris khi khép lại chiến dịch
+2024-11-06 07:32:13,257 - DEBUG - No valid timestamp found for article: Ông Trump, bà Harris vận động giờ chót trước bầu cử
+2024-11-06 07:32:13,258 - DEBUG - No valid timestamp found for article: Thẩm phán Pennsylvania cho phép Elon Musk thưởng một triệu USD cho cử tri
+2024-11-06 07:32:13,259 - DEBUG - No valid timestamp found for article: Triều Tiên phóng loạt tên lửa đạn đạo ra biển
+2024-11-06 07:32:13,260 - DEBUG - No valid timestamp found for article: Người nhập cư trái phép lo bị trục xuất hàng loạt nếu Trump đắc cử
+2024-11-06 07:32:13,260 - INFO - Found 0 valid articles
+2024-11-06 07:32:13,260 - WARNING - No articles found to export

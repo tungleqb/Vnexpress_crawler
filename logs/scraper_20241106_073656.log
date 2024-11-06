@@ -1,0 +1,20 @@
+2024-11-06 07:36:56,296 - INFO - Starting VnExpress scraper...
+2024-11-06 07:36:56,298 - DEBUG - Starting new HTTPS connection (1): vnexpress.net:443
+2024-11-06 07:36:56,664 - DEBUG - https://vnexpress.net:443 "GET /the-gioi HTTP/11" 200 None
+2024-11-06 07:36:56,859 - DEBUG - Successfully fetched page content
+2024-11-06 07:36:56,908 - DEBUG - Found 12 articles in main content
+2024-11-06 07:36:56,914 - INFO - Found 12 potential article elements
+2024-11-06 07:36:56,915 - DEBUG - No time element found in article: Nevada gặp rắc rối vì cử tri trẻ không biết ký tên
+2024-11-06 07:36:56,916 - DEBUG - No time element found in article: Nước Mỹ trong ngày bầu cử
+2024-11-06 07:36:56,917 - DEBUG - No time element found in article: Những người nhập cư Mỹ nêu lý do bầu cho ông Trump
+2024-11-06 07:36:56,918 - DEBUG - No time element found in article: Cử tri kiện Elon Musk vì không chọn ngẫu nhiên người nhận một triệu USD
+2024-11-06 07:36:56,919 - DEBUG - No time element found in article: Cử tri ủng hộ ông Trump về kinh tế, bà Harris về quyền phá thai
+2024-11-06 07:36:56,920 - DEBUG - No time element found in article: Truyền thông Mỹ xướng tên người đắc cử thế nào
+2024-11-06 07:36:56,922 - DEBUG - No time element found in article: Lý do Mỹ khó công bố người chiến thắng ngay đêm bầu cử
+2024-11-06 07:36:56,923 - DEBUG - No time element found in article: Người Mỹ gốc Việt nêu lý do bầu cho Trump, Harris
+2024-11-06 07:36:56,924 - DEBUG - No time element found in article: Thủ tướng Israel sa thải Bộ trưởng Quốc phòng
+2024-11-06 07:36:56,925 - DEBUG - No time element found in article: Người dân khắp thế giới theo dõi bầu cử tổng thống Mỹ
+2024-11-06 07:36:56,926 - DEBUG - No time element found in article: Nga cáo buộc Ukraine định chiếm nhà máy điện hạt nhân ở Kursk
+2024-11-06 07:36:56,927 - DEBUG - No time element found in article: Nỗi stress của cử tri Mỹ trong kỳ bầu cử
+2024-11-06 07:36:56,927 - INFO - Found 0 valid articles
+2024-11-06 07:36:56,927 - WARNING - No articles found to export

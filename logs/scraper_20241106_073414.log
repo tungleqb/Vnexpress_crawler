@@ -1,0 +1,19 @@
+2024-11-06 07:34:14,400 - INFO - Starting VnExpress scraper...
+2024-11-06 07:34:14,402 - DEBUG - Starting new HTTPS connection (1): vnexpress.net:443
+2024-11-06 07:34:14,739 - DEBUG - https://vnexpress.net:443 "GET /the-gioi HTTP/11" 200 None
+2024-11-06 07:34:14,908 - DEBUG - Successfully fetched page content
+2024-11-06 07:34:14,957 - INFO - Found 12 potential article elements
+2024-11-06 07:34:14,958 - DEBUG - No time element found
+2024-11-06 07:34:14,960 - DEBUG - No time element found
+2024-11-06 07:34:14,961 - DEBUG - No time element found
+2024-11-06 07:34:14,962 - DEBUG - No time element found
+2024-11-06 07:34:14,963 - DEBUG - No time element found
+2024-11-06 07:34:14,964 - DEBUG - No time element found
+2024-11-06 07:34:14,965 - DEBUG - No time element found
+2024-11-06 07:34:14,966 - DEBUG - No time element found
+2024-11-06 07:34:14,967 - DEBUG - No time element found
+2024-11-06 07:34:14,968 - DEBUG - No time element found
+2024-11-06 07:34:14,969 - DEBUG - No time element found
+2024-11-06 07:34:14,969 - DEBUG - No time element found
+2024-11-06 07:34:14,970 - INFO - Found 0 valid articles
+2024-11-06 07:34:14,970 - WARNING - No articles found to export

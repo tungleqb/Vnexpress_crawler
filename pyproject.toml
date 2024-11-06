@@ -1,0 +1,13 @@
+[project]
+name = "repl-nix-vnexpressarticleextractor"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "lxml>=5.3.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+    "trafilatura>=1.12.2",
+]

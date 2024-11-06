@@ -1,0 +1,106 @@
+2024-11-06 07:31:21,419 - INFO - Starting VnExpress scraper...
+2024-11-06 07:31:21,419 - DEBUG - sending request: https://vnexpress.net/the-gioi
+2024-11-06 07:31:21,419 - DEBUG - Starting new HTTPS connection (1): vnexpress.net:443
+2024-11-06 07:31:22,078 - DEBUG - https://vnexpress.net:443 "GET /the-gioi HTTP/11" 200 None
+2024-11-06 07:31:22,079 - DEBUG - Successfully fetched page content
+2024-11-06 07:31:22,125 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote', 'ref', 'table', 'td', 'th', 'tr']
+2024-11-06 07:31:22,126 - DEBUG - (.//article)[1]
+2024-11-06 07:31:22,126 - DEBUG - Recovering wild text elements
+2024-11-06 07:31:22,135 - DEBUG - list link text/total: 41/78 – short elems/total: 2/4
+2024-11-06 07:31:22,135 - DEBUG - list link text/total: 41/60 – short elems/total: 2/4
+2024-11-06 07:31:22,135 - DEBUG - list link text/total: 20/37 – short elems/total: 1/2
+2024-11-06 07:31:22,135 - DEBUG - list link text/total: 133/135 – short elems/total: 0/3
+2024-11-06 07:31:22,136 - DEBUG - list link text/total: 45/45 – short elems/total: 0/1
+2024-11-06 07:31:22,136 - DEBUG - list link text/total: 41/41 – short elems/total: 0/1
+2024-11-06 07:31:22,136 - DEBUG - list link text/total: 47/47 – short elems/total: 0/1
+2024-11-06 07:31:22,138 - DEBUG - list link text/total: 49/49 – short elems/total: 0/1
+2024-11-06 07:31:22,138 - DEBUG - list link text/total: 49/49 – short elems/total: 0/1
+2024-11-06 07:31:22,138 - DEBUG - list link text/total: 49/49 – short elems/total: 0/1
+2024-11-06 07:31:22,139 - DEBUG - list link text/total: 132/134 – short elems/total: 0/3
+2024-11-06 07:31:22,148 - DEBUG - Top 5: div 0.6516992508678959
+2024-11-06 07:31:22,148 - DEBUG - Top 5: div 0.4047678018575862
+2024-11-06 07:31:22,148 - DEBUG - Top 5: div 0.3102048626744723
+2024-11-06 07:31:22,148 - DEBUG - Top 5: article 0.18914438502673872
+2024-11-06 07:31:22,149 - DEBUG - Top 5: div 0.11890120967741989
+2024-11-06 07:31:22,150 - DEBUG - Removed  0.038 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,150 - DEBUG - Removed  0.055 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,150 - DEBUG - Removed  0.037 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,151 - DEBUG - Removed  0.044 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,151 - DEBUG - Removed  0.047 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,151 - DEBUG - Removed  0.043 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,151 - DEBUG - Removed  0.046 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,152 - DEBUG - Removed  0.051 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,152 - DEBUG - Removed  0.052 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,152 - DEBUG - Removed  0.044 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,152 - DEBUG - Removed  0.055 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,153 - DEBUG - Removed  0.056 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,153 - DEBUG - Removed  0.050 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,153 - DEBUG - Removed  0.053 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 07:31:22,153 - DEBUG - Removed  0.049 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,153 - DEBUG - Removed  0.045 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,154 - DEBUG - Removed  0.049 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,154 - DEBUG - Removed  0.041 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,154 - DEBUG - Removed  0.048 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,154 - DEBUG - Removed  0.044 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,154 - DEBUG - Removed  0.046 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,155 - DEBUG - Removed  0.052 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,155 - DEBUG - Removed  0.045 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,155 - DEBUG - Removed  0.045 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,155 - DEBUG - Removed  0.052 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,156 - DEBUG - Removed  0.057 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 07:31:22,156 - DEBUG - Removed  0.054 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,156 - DEBUG - Removed  0.049 div with weight 0 cause it has no content.
+2024-11-06 07:31:22,158 - DEBUG - extracted length: 3897 (algorithm) 107 (extraction)
+2024-11-06 07:31:22,158 - DEBUG - using generic algorithm: None
+2024-11-06 07:31:22,159 - DEBUG - not enough comments: None
+2024-11-06 07:31:22,209 - INFO - Found 48 potential article elements
+2024-11-06 07:31:22,211 - DEBUG - Skipping article due to missing fields - ID: 4812573, URL: https://vnexpress.net/my-bat-dau-kiem-phieu-bau-tong-thong-4812573.html, Title: Báo Mỹ nói Donald Trump đắc cử tổng thống Mỹ, Timestamp: None
+2024-11-06 07:31:22,213 - DEBUG - Skipping article due to missing fields - ID: 4810598, URL: https://vnexpress.net/giang-co-o-7-bang-chien-truong-dinh-doat-bau-cu-my-4810598.html, Title: Ông Trump áp đảo ở các bang chiến trường, Timestamp: None
+2024-11-06 07:31:22,214 - DEBUG - Skipping article due to missing fields - ID: 4812824, URL: https://vnexpress.net/ong-trump-phat-bieu-mung-chien-thang-4812824.html, Title: Ông Trump phát biểu mừng chiến thắng, Timestamp: None
+2024-11-06 07:31:22,214 - DEBUG - Skipping article due to missing fields - ID: 4812723, URL: https://vnexpress.net/tam-trang-nguoi-my-trong-luc-cho-ket-qua-bau-cu-4812723.html, Title: Tâm trạng người Mỹ trong lúc chờ kết quả bầu cử, Timestamp: None
+2024-11-06 07:31:22,215 - DEBUG - Skipping article due to missing fields - ID: 4812787, URL: https://vnexpress.net/dang-cong-hoa-gianh-da-so-thuong-vien-my-4812787.html, Title: Đảng Cộng hòa giành đa số Thượng viện Mỹ, Timestamp: None
+2024-11-06 07:31:22,216 - DEBUG - Skipping article due to missing fields - ID: 4812730, URL: https://vnexpress.net/barron-trump-lan-dau-di-bo-phieu-4812730.html, Title: Barron Trump lần đầu đi bỏ phiếu, Timestamp: None
+2024-11-06 07:31:22,217 - DEBUG - Skipping article due to missing fields - ID: 4812674, URL: https://vnexpress.net/vui-buon-cua-phe-cong-hoa-dan-chu-khi-ong-trump-dan-truoc-4812674.html, Title: Vui, buồn của phe Cộng hòa - Dân chủ khi ông Trump dẫn trước, Timestamp: None
+2024-11-06 07:31:22,217 - DEBUG - No title element found
+2024-11-06 07:31:22,218 - DEBUG - Skipping article due to missing fields - ID: 4812752, URL: https://vnexpress.net/nevada-gap-rac-roi-vi-cu-tri-tre-khong-biet-ky-ten-4812752.html, Title: Nevada gặp rắc rối vì cử tri trẻ không biết ký tên, Timestamp: None
+2024-11-06 07:31:22,219 - DEBUG - Skipping article due to missing fields - ID: 4812592, URL: https://vnexpress.net/nuoc-my-trong-ngay-bau-cu-4812592.html, Title: Nước Mỹ trong ngày bầu cử, Timestamp: None
+2024-11-06 07:31:22,219 - DEBUG - Skipping article due to missing fields - ID: 4812571, URL: https://vnexpress.net/nhung-nguoi-nhap-cu-my-neu-ly-do-bau-cho-ong-trump-4812571.html, Title: Những người nhập cư Mỹ nêu lý do bầu cho ông Trump, Timestamp: None
+2024-11-06 07:31:22,220 - DEBUG - Skipping article due to missing fields - ID: 4812603, URL: https://vnexpress.net/cu-tri-kien-elon-musk-vi-khong-chon-ngau-nhien-nguoi-nhan-mot-trieu-usd-4812603.html, Title: Cử tri kiện Elon Musk vì không chọn ngẫu nhiên người nhận một triệu USD, Timestamp: None
+2024-11-06 07:31:22,221 - DEBUG - Skipping article due to missing fields - ID: 4812584, URL: https://vnexpress.net/cu-tri-ung-ho-ong-trump-ve-kinh-te-ba-harris-ve-quyen-pha-thai-4812584.html, Title: Cử tri ủng hộ ông Trump về kinh tế, bà Harris về quyền phá thai, Timestamp: None
+2024-11-06 07:31:22,222 - DEBUG - Skipping article due to missing fields - ID: 4811304, URL: https://vnexpress.net/truyen-thong-my-xuong-ten-nguoi-dac-cu-the-nao-4811304.html, Title: Truyền thông Mỹ xướng tên người đắc cử thế nào, Timestamp: None
+2024-11-06 07:31:22,223 - DEBUG - Skipping article due to missing fields - ID: 4810347, URL: https://vnexpress.net/ly-do-my-kho-cong-bo-nguoi-chien-thang-ngay-dem-bau-cu-4810347.html, Title: Lý do Mỹ khó công bố người chiến thắng ngay đêm bầu cử, Timestamp: None
+2024-11-06 07:31:22,224 - DEBUG - Skipping article due to missing fields - ID: 4812306, URL: https://vnexpress.net/nguoi-my-goc-viet-neu-ly-do-bau-cho-trump-harris-4812306.html, Title: Người Mỹ gốc Việt nêu lý do bầu cho Trump, Harris, Timestamp: None
+2024-11-06 07:31:22,224 - DEBUG - Skipping article due to missing fields - ID: 4812574, URL: https://vnexpress.net/thu-tuong-israel-sa-thai-bo-truong-quoc-phong-4812574.html, Title: Thủ tướng Israel sa thải Bộ trưởng Quốc phòng, Timestamp: None
+2024-11-06 07:31:22,225 - DEBUG - Skipping article due to missing fields - ID: 4812524, URL: https://vnexpress.net/nguoi-dan-khap-the-gioi-theo-doi-bau-cu-tong-thong-my-4812524.html, Title: Người dân khắp thế giới theo dõi bầu cử tổng thống Mỹ, Timestamp: None
+2024-11-06 07:31:22,226 - DEBUG - Skipping article due to missing fields - ID: 4812566, URL: https://vnexpress.net/nga-cao-buoc-ukraine-dinh-chiem-nha-may-dien-hat-nhan-o-kursk-4812566.html, Title: Nga cáo buộc Ukraine định chiếm nhà máy điện hạt nhân ở Kursk, Timestamp: None
+2024-11-06 07:31:22,227 - DEBUG - Skipping article due to missing fields - ID: 4812516, URL: https://vnexpress.net/noi-stress-cua-cu-tri-my-trong-ky-bau-cu-4812516.html, Title: Nỗi stress của cử tri Mỹ trong kỳ bầu cử, Timestamp: None
+2024-11-06 07:31:22,228 - DEBUG - Skipping article due to missing fields - ID: 4812442, URL: https://vnexpress.net/cach-gioi-chuc-my-ngan-phieu-bau-ma-4812442.html, Title: Cách giới chức Mỹ ngăn 'phiếu bầu ma', Timestamp: None
+2024-11-06 07:31:22,229 - DEBUG - Skipping article due to missing fields - ID: 4812551, URL: https://vnexpress.net/ly-do-ong-trump-van-duoc-bo-phieu-du-da-bi-ket-toi-4812551.html, Title: Lý do ông Trump vẫn được bỏ phiếu dù đã bị kết tội, Timestamp: None
+2024-11-06 07:31:22,230 - DEBUG - Skipping article due to missing fields - ID: 4812547, URL: https://vnexpress.net/tiem-kich-an-do-xoay-nhu-la-vang-khi-roi-xuong-dat-4812547.html, Title: Tiêm kích Ấn Độ 'xoay như lá vàng' khi rơi xuống đất, Timestamp: None
+2024-11-06 07:31:22,231 - DEBUG - Skipping article due to missing fields - ID: 4812478, URL: https://vnexpress.net/nguoi-an-do-toi-den-tho-cau-nguyen-cho-ba-harris-dac-cu-4812478.html, Title: Người Ấn Độ tới đền thờ cầu nguyện cho bà Harris đắc cử, Timestamp: None
+2024-11-06 07:31:22,232 - DEBUG - Skipping article due to missing fields - ID: 4812154, URL: https://vnexpress.net/an-so-tu-cu-tri-tham-lang-trong-bau-cu-my-4812154.html, Title: Ẩn số từ cử tri thầm lặng trong bầu cử Mỹ, Timestamp: None
+2024-11-06 07:31:22,233 - DEBUG - Skipping article due to missing fields - ID: 4811827, URL: https://vnexpress.net/may-bo-phieu-bau-tong-thong-my-hoat-dong-nhu-the-nao-4811827.html, Title: Máy bỏ phiếu bầu tổng thống Mỹ hoạt động như thế nào?, Timestamp: None
+2024-11-06 07:31:22,234 - DEBUG - Skipping article due to missing fields - ID: 4812341, URL: https://vnexpress.net/phat-bieu-khep-lai-chien-dich-tranh-cu-cua-trump-harris-4812341.html, Title: Phát biểu khép lại chiến dịch tranh cử của Trump - Harris, Timestamp: None
+2024-11-06 07:31:22,236 - DEBUG - Skipping article due to missing fields - ID: 4812512, URL: https://vnexpress.net/thu-tuong-tang-chan-dung-chu-tich-ho-chi-minh-cho-khu-di-tich-o-van-nam-4812512.html, Title: Thủ tướng tặng chân dung Chủ tịch Hồ Chí Minh cho khu di tích ở Vân Nam, Timestamp: None
+2024-11-06 07:31:22,237 - DEBUG - Skipping article due to missing fields - ID: 4812455, URL: https://vnexpress.net/cac-diem-bo-phieu-bau-tong-thong-tren-khap-nuoc-my-mo-cua-4812455.html, Title: Ông Trump cáo buộc 'gian lận tràn lan' ở Philadelphia, Timestamp: None
+2024-11-06 07:31:22,238 - DEBUG - Skipping article due to missing fields - ID: 4812468, URL: https://vnexpress.net/vua-tay-ban-nha-duoc-ca-ngoi-vi-dung-vung-truoc-dam-dong-nem-bun-4812468.html, Title: Vua Tây Ban Nha được ca ngợi vì đứng vững trước đám đông ném bùn, Timestamp: None
+2024-11-06 07:31:22,240 - DEBUG - Skipping article due to missing fields - ID: 4812291, URL: https://vnexpress.net/ong-zelensky-nga-phong-uav-vao-ukraine-nhieu-gap-10-lan-nam-ngoai-4812291.html, Title: Ông Zelensky: Nga phóng UAV vào Ukraine nhiều gấp 10 lần năm ngoái, Timestamp: None
+2024-11-06 07:31:22,241 - DEBUG - Skipping article due to missing fields - ID: 4812405, URL: https://vnexpress.net/ha-ma-ngoi-sao-cua-thai-lan-du-doan-ong-trump-dac-cu-4812405.html, Title: Hà mã 'ngôi sao' của Thái Lan dự đoán ông Trump đắc cử, Timestamp: None
+2024-11-06 07:31:22,242 - DEBUG - Skipping article due to missing fields - ID: 4812390, URL: https://vnexpress.net/ong-trump-chon-thanh-pho-dac-biet-lam-diem-van-dong-cuoi-cung-4812390.html, Title: Ông Trump chọn 'thành phố đặc biệt' làm điểm vận động cuối cùng, Timestamp: None
+2024-11-06 07:31:22,243 - DEBUG - Skipping article due to missing fields - ID: 4812160, URL: https://vnexpress.net/nhung-gia-dinh-my-bat-dong-quan-diem-vi-bau-cu-tong-thong-4812160.html, Title: Những gia đình Mỹ bất đồng quan điểm vì bầu cử tổng thống, Timestamp: None
+2024-11-06 07:31:22,244 - DEBUG - Skipping article due to missing fields - ID: 4812167, URL: https://vnexpress.net/uav-lancet-co-the-da-tap-kich-hon-2-500-muc-tieu-o-ukraine-4812167.html, Title: UAV Lancet có thể đã tập kích hơn 2.500 mục tiêu ở Ukraine, Timestamp: None
+2024-11-06 07:31:22,246 - DEBUG - Skipping article due to missing fields - ID: 4812177, URL: https://vnexpress.net/nhung-hinh-anh-dinh-hinh-mua-bau-cu-tong-thong-my-4812177.html, Title: Những hình ảnh định hình mùa bầu cử tổng thống Mỹ, Timestamp: None
+2024-11-06 07:31:22,247 - DEBUG - Skipping article due to missing fields - ID: thuat, URL: https://vnexpress.net/ba-thi-tran-o-my-bo-phieu-bau-cu-luc-nua-dem-4812299-tong-thuat.html, Title: Trump - Harris hòa nhau tại điểm bỏ phiếu đầu tiên, Timestamp: None
+2024-11-06 07:31:22,248 - DEBUG - Skipping article due to missing fields - ID: 4812264, URL: https://vnexpress.net/nguoi-dan-chuong-trinh-podcast-noi-tieng-tuyen-bo-ung-ho-ong-trump-4812264.html, Title: Người dẫn chương trình podcast nổi tiếng tuyên bố ủng hộ ông Trump, Timestamp: None
+2024-11-06 07:31:22,249 - DEBUG - Skipping article due to missing fields - ID: 4812201, URL: https://vnexpress.net/ong-trump-noi-ba-harris-nen-dau-voi-mike-tyson-4812201.html, Title: Ông Trump nói bà Harris 'nên đấu với Mike Tyson', Timestamp: None
+2024-11-06 07:31:22,250 - DEBUG - Skipping article due to missing fields - ID: 4811297, URL: https://vnexpress.net/cach-nguoi-my-bo-phieu-va-kiem-dem-ket-qua-bau-cu-4811297.html, Title: Cách người Mỹ bỏ phiếu và kiểm đếm kết quả bầu cử, Timestamp: None
+2024-11-06 07:31:22,251 - DEBUG - Skipping article due to missing fields - ID: 4812179, URL: https://vnexpress.net/ba-harris-go-cua-nha-dan-truoc-gio-bau-cu-4812179.html, Title: Bà Harris gõ cửa nhà dân trước giờ bầu cử, Timestamp: None
+2024-11-06 07:31:22,253 - DEBUG - Skipping article due to missing fields - ID: 4812174, URL: https://vnexpress.net/israel-tuyen-bo-tap-kich-so-chi-huy-tinh-bao-hezbollah-tai-syria-4812174.html, Title: Israel tuyên bố tập kích 'sở chỉ huy tình báo Hezbollah' tại Syria, Timestamp: None
+2024-11-06 07:31:22,254 - DEBUG - Skipping article due to missing fields - ID: 4812119, URL: https://vnexpress.net/thu-tuong-pham-minh-chinh-len-duong-toi-trung-quoc-4812119.html, Title: Thủ tướng Phạm Minh Chính lên đường tới Trung Quốc, Timestamp: None
+2024-11-06 07:31:22,255 - DEBUG - Skipping article due to missing fields - ID: 4811734, URL: https://vnexpress.net/thong-diep-doi-choi-cua-trump-va-harris-khi-khep-lai-chien-dich-4811734.html, Title: Thông điệp đối chọi của Trump và Harris khi khép lại chiến dịch, Timestamp: None
+2024-11-06 07:31:22,256 - DEBUG - Skipping article due to missing fields - ID: 4812161, URL: https://vnexpress.net/ong-trump-ba-harris-van-dong-gio-chot-truoc-bau-cu-4812161.html, Title: Ông Trump, bà Harris vận động giờ chót trước bầu cử, Timestamp: None
+2024-11-06 07:31:22,257 - DEBUG - Skipping article due to missing fields - ID: 4812132, URL: https://vnexpress.net/tham-phan-pennsylvania-cho-phep-elon-musk-thuong-mot-trieu-usd-cho-cu-tri-4812132.html, Title: Thẩm phán Pennsylvania cho phép Elon Musk thưởng một triệu USD cho cử tri, Timestamp: None
+2024-11-06 07:31:22,258 - DEBUG - Skipping article due to missing fields - ID: 4812127, URL: https://vnexpress.net/trieu-tien-phong-loat-ten-lua-dan-dao-ra-bien-4812127.html, Title: Triều Tiên phóng loạt tên lửa đạn đạo ra biển, Timestamp: None
+2024-11-06 07:31:22,259 - DEBUG - Skipping article due to missing fields - ID: 4811762, URL: https://vnexpress.net/nguoi-nhap-cu-trai-phep-lo-bi-truc-xuat-hang-loat-neu-trump-dac-cu-4811762.html, Title: Người nhập cư trái phép lo bị trục xuất hàng loạt nếu Trump đắc cử, Timestamp: None
+2024-11-06 07:31:22,259 - INFO - Found 0 valid articles
+2024-11-06 07:31:22,259 - WARNING - No articles found to export

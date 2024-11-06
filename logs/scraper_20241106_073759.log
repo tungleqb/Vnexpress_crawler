@@ -1,0 +1,53 @@
+2024-11-06 07:37:59,901 - INFO - Starting VnExpress scraper...
+2024-11-06 07:37:59,901 - DEBUG - sending request: https://vnexpress.net/the-gioi
+2024-11-06 07:37:59,902 - DEBUG - Starting new HTTPS connection (1): vnexpress.net:443
+2024-11-06 07:38:00,432 - DEBUG - https://vnexpress.net:443 "GET /the-gioi HTTP/11" 200 None
+2024-11-06 07:38:00,434 - DEBUG - Successfully fetched page content
+2024-11-06 07:38:00,485 - INFO - Found 45 potential article elements
+2024-11-06 07:38:00,486 - DEBUG - No time element found
+2024-11-06 07:38:00,487 - DEBUG - No time element found
+2024-11-06 07:38:00,488 - DEBUG - No time element found
+2024-11-06 07:38:00,489 - DEBUG - No time element found
+2024-11-06 07:38:00,489 - DEBUG - No title element found
+2024-11-06 07:38:00,489 - DEBUG - No time element found
+2024-11-06 07:38:00,490 - DEBUG - No time element found
+2024-11-06 07:38:00,491 - DEBUG - No time element found
+2024-11-06 07:38:00,492 - DEBUG - No time element found
+2024-11-06 07:38:00,493 - DEBUG - No time element found
+2024-11-06 07:38:00,494 - DEBUG - No time element found
+2024-11-06 07:38:00,495 - DEBUG - No time element found
+2024-11-06 07:38:00,496 - DEBUG - No time element found
+2024-11-06 07:38:00,496 - DEBUG - No time element found
+2024-11-06 07:38:00,497 - DEBUG - No time element found
+2024-11-06 07:38:00,498 - DEBUG - No time element found
+2024-11-06 07:38:00,499 - DEBUG - No time element found
+2024-11-06 07:38:00,500 - DEBUG - No time element found
+2024-11-06 07:38:00,500 - DEBUG - No time element found
+2024-11-06 07:38:00,501 - DEBUG - No title found
+2024-11-06 07:38:00,502 - DEBUG - No time element found
+2024-11-06 07:38:00,503 - DEBUG - No time element found
+2024-11-06 07:38:00,503 - DEBUG - No time element found
+2024-11-06 07:38:00,504 - DEBUG - No time element found
+2024-11-06 07:38:00,505 - DEBUG - No time element found
+2024-11-06 07:38:00,506 - DEBUG - No time element found
+2024-11-06 07:38:00,507 - DEBUG - No time element found
+2024-11-06 07:38:00,507 - DEBUG - No time element found
+2024-11-06 07:38:00,508 - DEBUG - No time element found
+2024-11-06 07:38:00,509 - DEBUG - No time element found
+2024-11-06 07:38:00,510 - DEBUG - No time element found
+2024-11-06 07:38:00,510 - DEBUG - No title found
+2024-11-06 07:38:00,511 - DEBUG - No time element found
+2024-11-06 07:38:00,512 - DEBUG - No time element found
+2024-11-06 07:38:00,513 - DEBUG - No time element found
+2024-11-06 07:38:00,514 - DEBUG - No time element found
+2024-11-06 07:38:00,515 - DEBUG - No time element found
+2024-11-06 07:38:00,516 - DEBUG - No time element found
+2024-11-06 07:38:00,517 - DEBUG - No time element found
+2024-11-06 07:38:00,518 - DEBUG - No time element found
+2024-11-06 07:38:00,519 - DEBUG - No time element found
+2024-11-06 07:38:00,520 - DEBUG - No time element found
+2024-11-06 07:38:00,521 - DEBUG - No time element found
+2024-11-06 07:38:00,522 - DEBUG - No time element found
+2024-11-06 07:38:00,522 - DEBUG - No time element found
+2024-11-06 07:38:00,522 - INFO - Found 0 valid articles
+2024-11-06 07:38:00,523 - WARNING - No articles found to export

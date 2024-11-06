@@ -1,0 +1,7 @@
+2024-11-06 07:37:34,153 - INFO - Starting VnExpress scraper...
+2024-11-06 07:37:34,155 - DEBUG - Starting new HTTPS connection (1): vnexpress.net:443
+2024-11-06 07:37:34,517 - DEBUG - https://vnexpress.net:443 "GET /the-gioi HTTP/11" 200 None
+2024-11-06 07:37:34,715 - DEBUG - Successfully fetched page content
+2024-11-06 07:37:34,789 - INFO - Found 0 potential article elements
+2024-11-06 07:37:34,789 - INFO - Found 0 valid articles
+2024-11-06 07:37:34,789 - WARNING - No articles found to export

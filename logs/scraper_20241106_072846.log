@@ -1,0 +1,4 @@
+2024-11-06 07:28:46,097 - INFO - Starting VnExpress scraper...
+2024-11-06 07:28:46,650 - ERROR - Failed to parse timestamp : list index out of range
+2024-11-06 07:28:46,670 - INFO - Found 0 valid articles
+2024-11-06 07:28:46,671 - WARNING - No articles found to export
