@@ -30,5 +30,12 @@ TIMEOUT = 10
 EXCEL_SETTINGS = {
     'filename': 'vnexpress_articles.xlsx',
     'sheet_name': 'Articles',
-    'columns': ['ID', 'URL', 'Title']  # Removed timestamp from columns
+    'columns': ['ID', 'URL', 'Title']
+}
+
+# Text output settings
+TEXT_SETTINGS = {
+    'filename': 'vnexpress_articles.txt',
+    'encoding': 'utf-8',
+    'separator': '\n' + '='*80 + '\n'  # Separator between articles
 }

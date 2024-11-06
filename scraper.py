@@ -9,7 +9,7 @@ from lxml import html
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
-from config import HEADERS, BASE_URL, MAX_RETRIES, TIMEOUT, EXCEL_SETTINGS
+from config import HEADERS, BASE_URL, MAX_RETRIES, TIMEOUT, EXCEL_SETTINGS, TEXT_SETTINGS
 from utils import setup_logging, extract_article_id, is_advertisement
 
 class VnExpressScraper:
@@ -65,10 +65,23 @@ class VnExpressScraper:
                         logging.debug(f"No valid article ID found for URL: {url}")
                         continue
 
+                    # Fetch article content
+                    logging.info(f"Fetching content for article: {title}")
+                    article_html = self.fetch_page(url)
+                    content = ''
+                    if article_html:
+                        content = trafilatura.extract(article_html, include_comments=False, include_tables=False)
+                        if content:
+                            logging.info(f"Successfully extracted content for article: {title}")
+                        else:
+                            logging.warning(f"No content extracted for article: {title}")
+                            content = 'Content not available'
+
                     articles.append({
                         'ID': article_id,
                         'URL': url,
-                        'Title': title
+                        'Title': title,
+                        'Content': content
                     })
                     logging.info(f"Successfully parsed article: {title}")
 
@@ -88,10 +101,12 @@ class VnExpressScraper:
                 logging.warning("No articles to export")
                 return False
                 
-            df = pd.DataFrame(articles)
+            # Create DataFrame with only the columns needed for Excel
+            excel_data = [{k: v for k, v in article.items() if k != 'Content'} for article in articles]
+            df = pd.DataFrame(excel_data)
             
             # Define columns
-            columns = ['ID', 'URL', 'Title']
+            columns = EXCEL_SETTINGS['columns']
             
             # Create Excel writer with openpyxl engine
             with pd.ExcelWriter(
@@ -154,6 +169,42 @@ class VnExpressScraper:
             logging.error(f"Failed to export to Excel: {str(e)}")
             return False
 
+    def export_to_text(self, articles: List[Dict]) -> bool:
+        """Export articles to a readable text file"""
+        try:
+            if not articles:
+                logging.warning("No articles to export to text")
+                return False
+
+            logging.info(f"Starting text export of {len(articles)} articles")
+            with open(TEXT_SETTINGS['filename'], 'w', encoding=TEXT_SETTINGS['encoding']) as f:
+                for i, article in enumerate(articles, 1):
+                    logging.debug(f"Writing article {i} to text file")
+                    # Write article header
+                    f.write(f"Article {i}\n")
+                    f.write("-" * 40 + "\n")
+                    
+                    # Write article metadata
+                    f.write(f"ID: {article['ID']}\n")
+                    f.write(f"Title: {article['Title']}\n")
+                    f.write(f"URL: {article['URL']}\n\n")
+                    
+                    # Write article content
+                    f.write("Content:\n")
+                    content = article.get('Content', 'Content not available')
+                    f.write(content if content else 'Content not available')
+                    
+                    # Add separator between articles
+                    if i < len(articles):
+                        f.write(TEXT_SETTINGS['separator'])
+
+            logging.info(f"Successfully exported {len(articles)} articles to {TEXT_SETTINGS['filename']}")
+            return True
+
+        except Exception as e:
+            logging.error(f"Failed to export to text file: {str(e)}")
+            return False
+
     def run(self):
         """Main scraping process"""
         logging.info("Starting VnExpress scraper...")
@@ -163,12 +214,18 @@ class VnExpressScraper:
             logging.error("Failed to fetch content. Exiting...")
             return
 
-        logging.debug("Successfully fetched page content")
+        logging.info("Successfully fetched page content")
         articles = self.parse_articles(html_content)
         logging.info(f"Found {len(articles)} valid articles")
 
         if articles:
-            self.export_to_excel(articles)
+            excel_result = self.export_to_excel(articles)
+            text_result = self.export_to_text(articles)
+            
+            if excel_result and text_result:
+                logging.info("Successfully exported articles to both Excel and text formats")
+            else:
+                logging.error("Failed to export articles to one or both formats")
         else:
             logging.warning("No articles found to export")
 

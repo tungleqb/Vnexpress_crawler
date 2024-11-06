@@ -1,0 +1,835 @@
+2024-11-06 10:27:43,817 - INFO - Starting VnExpress scraper...
+2024-11-06 10:27:43,819 - DEBUG - Starting new HTTPS connection (1): vnexpress.net:443
+2024-11-06 10:27:44,209 - DEBUG - https://vnexpress.net:443 "GET /the-gioi HTTP/11" 200 None
+2024-11-06 10:27:44,422 - DEBUG - Successfully fetched page content
+2024-11-06 10:27:44,428 - INFO - Found 44 potential article elements
+2024-11-06 10:27:44,542 - DEBUG - https://vnexpress.net:443 "GET /my-bat-dau-kiem-phieu-bau-tong-thong-4812573.html HTTP/11" 200 None
+2024-11-06 10:27:44,555 - DEBUG - list link text/total: 15/16 – short elems/total: 2/2
+2024-11-06 10:27:44,557 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:44,563 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:44,563 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:44,563 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,564 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,564 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,564 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,564 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,565 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,565 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,565 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,565 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,566 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,566 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,567 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:44,567 - DEBUG - extracted length: 25 (algorithm) 3121 (extraction)
+2024-11-06 10:27:44,567 - DEBUG - using custom extraction: None
+2024-11-06 10:27:44,569 - INFO - Successfully parsed article: Báo Mỹ nói Donald Trump đắc cử tổng thống Mỹ
+2024-11-06 10:27:44,683 - DEBUG - https://vnexpress.net:443 "GET /tam-trang-nguoi-my-trong-luc-cho-ket-qua-bau-cu-4812723.html HTTP/11" 200 None
+2024-11-06 10:27:44,692 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:44,693 - DEBUG - (.//article)[1]
+2024-11-06 10:27:44,697 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:44,697 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:44,697 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,698 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,698 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,698 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,698 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,698 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,699 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:44,699 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,699 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,699 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,700 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:44,700 - DEBUG - extracted length: 25 (algorithm) 2923 (extraction)
+2024-11-06 10:27:44,700 - DEBUG - using custom extraction: None
+2024-11-06 10:27:44,702 - INFO - Successfully parsed article: Tâm trạng người Mỹ trong lúc chờ kết quả bầu cử
+2024-11-06 10:27:44,821 - DEBUG - https://vnexpress.net:443 "GET /dang-cong-hoa-gianh-da-so-thuong-vien-my-4812787.html HTTP/11" 200 None
+2024-11-06 10:27:44,832 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:44,833 - DEBUG - (.//article)[1]
+2024-11-06 10:27:44,835 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:44,836 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:44,836 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,836 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,836 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,836 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,837 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,837 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,837 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:44,837 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,837 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,837 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,838 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:44,838 - DEBUG - extracted length: 25 (algorithm) 1564 (extraction)
+2024-11-06 10:27:44,838 - DEBUG - using custom extraction: None
+2024-11-06 10:27:44,839 - INFO - Successfully parsed article: Đảng Cộng hòa giành đa số Thượng viện Mỹ
+2024-11-06 10:27:44,953 - DEBUG - https://vnexpress.net:443 "GET /barron-trump-lan-dau-di-bo-phieu-4812730.html HTTP/11" 200 None
+2024-11-06 10:27:44,962 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:44,965 - DEBUG - (.//article)[1]
+2024-11-06 10:27:44,967 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:44,967 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:44,967 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,968 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,968 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,968 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,968 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,968 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,969 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:44,969 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,969 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,969 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:44,970 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:44,970 - DEBUG - extracted length: 25 (algorithm) 1590 (extraction)
+2024-11-06 10:27:44,970 - DEBUG - using custom extraction: None
+2024-11-06 10:27:44,971 - INFO - Successfully parsed article: Barron Trump lần đầu đi bỏ phiếu
+2024-11-06 10:27:45,079 - DEBUG - https://vnexpress.net:443 "GET /vui-buon-cua-phe-cong-hoa-dan-chu-khi-ong-trump-dan-truoc-4812674.html HTTP/11" 200 None
+2024-11-06 10:27:45,101 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:45,102 - DEBUG - (.//article)[1]
+2024-11-06 10:27:45,104 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:45,104 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:45,104 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,104 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,105 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,105 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,105 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,105 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,105 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:45,105 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,105 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,106 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,106 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:45,106 - DEBUG - extracted length: 25 (algorithm) 2600 (extraction)
+2024-11-06 10:27:45,106 - DEBUG - using custom extraction: None
+2024-11-06 10:27:45,107 - INFO - Successfully parsed article: Vui, buồn của phe Cộng hòa - Dân chủ khi ông Trump dẫn trước
+2024-11-06 10:27:45,220 - DEBUG - https://vnexpress.net:443 "GET /nevada-gap-rac-roi-vi-cu-tri-tre-khong-biet-ky-ten-4812752.html HTTP/11" 200 None
+2024-11-06 10:27:45,229 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:45,229 - DEBUG - (.//article)[1]
+2024-11-06 10:27:45,231 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:45,231 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:45,231 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,232 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,232 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,232 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,232 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,232 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,232 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:45,233 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,233 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,233 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,234 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:45,234 - DEBUG - extracted length: 25 (algorithm) 1191 (extraction)
+2024-11-06 10:27:45,234 - DEBUG - using custom extraction: None
+2024-11-06 10:27:45,235 - INFO - Successfully parsed article: Nevada gặp rắc rối vì cử tri trẻ không biết ký tên
+2024-11-06 10:27:45,348 - DEBUG - https://vnexpress.net:443 "GET /nuoc-my-trong-ngay-bau-cu-4812592.html HTTP/11" 200 None
+2024-11-06 10:27:45,366 - DEBUG - list link text/total: 150/152 – short elems/total: 0/3
+2024-11-06 10:27:45,368 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:45,368 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,368 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,368 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,368 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,368 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,368 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,368 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,368 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,369 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:45,370 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,371 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,372 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:45,373 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:45,374 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:45,374 - DEBUG - (.//article)[1]
+2024-11-06 10:27:45,380 - DEBUG - Top 5: div 32.230000000000004
+2024-11-06 10:27:45,380 - DEBUG - Top 5: div 32.230000000000004
+2024-11-06 10:27:45,381 - DEBUG - Top 5: div 23.39
+2024-11-06 10:27:45,381 - DEBUG - Top 5: div 23.39
+2024-11-06 10:27:45,381 - DEBUG - Top 5: div 19.07
+2024-11-06 10:27:45,381 - DEBUG - extracted length: 927 (algorithm) 7701 (extraction)
+2024-11-06 10:27:45,382 - DEBUG - using custom extraction: None
+2024-11-06 10:27:45,384 - INFO - Successfully parsed article: Nước Mỹ trong ngày bầu cử
+2024-11-06 10:27:45,503 - DEBUG - https://vnexpress.net:443 "GET /nhung-nguoi-nhap-cu-my-neu-ly-do-bau-cho-ong-trump-4812571.html HTTP/11" 200 None
+2024-11-06 10:27:45,515 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:45,516 - DEBUG - (.//article)[1]
+2024-11-06 10:27:45,518 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:45,519 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:45,519 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,519 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,520 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,520 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,520 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,520 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,520 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:45,521 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,521 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,521 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,522 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:45,522 - DEBUG - extracted length: 25 (algorithm) 3899 (extraction)
+2024-11-06 10:27:45,522 - DEBUG - using custom extraction: None
+2024-11-06 10:27:45,524 - INFO - Successfully parsed article: Những người nhập cư Mỹ nêu lý do bầu cho ông Trump
+2024-11-06 10:27:45,664 - DEBUG - https://vnexpress.net:443 "GET /cu-tri-kien-elon-musk-vi-khong-chon-ngau-nhien-nguoi-nhan-mot-trieu-usd-4812603.html HTTP/11" 200 None
+2024-11-06 10:27:45,676 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:45,676 - DEBUG - (.//article)[1]
+2024-11-06 10:27:45,678 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:45,679 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:45,679 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,679 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,680 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,680 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,680 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,680 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,680 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:45,680 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,681 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,681 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,681 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:45,682 - DEBUG - extracted length: 25 (algorithm) 2205 (extraction)
+2024-11-06 10:27:45,682 - DEBUG - using custom extraction: None
+2024-11-06 10:27:45,683 - INFO - Successfully parsed article: Cử tri kiện Elon Musk vì không chọn ngẫu nhiên người nhận một triệu USD
+2024-11-06 10:27:45,797 - DEBUG - https://vnexpress.net:443 "GET /cu-tri-ung-ho-ong-trump-ve-kinh-te-ba-harris-ve-quyen-pha-thai-4812584.html HTTP/11" 200 None
+2024-11-06 10:27:45,807 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:45,807 - DEBUG - (.//article)[1]
+2024-11-06 10:27:45,809 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:45,809 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:45,809 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,809 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,809 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,810 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,810 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,810 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,810 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:45,810 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,810 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,810 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,811 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:45,811 - DEBUG - extracted length: 25 (algorithm) 2561 (extraction)
+2024-11-06 10:27:45,811 - DEBUG - using custom extraction: None
+2024-11-06 10:27:45,812 - INFO - Successfully parsed article: Cử tri ủng hộ ông Trump về kinh tế, bà Harris về quyền phá thai
+2024-11-06 10:27:45,931 - DEBUG - https://vnexpress.net:443 "GET /giang-co-o-7-bang-chien-truong-dinh-doat-bau-cu-my-4810598.html HTTP/11" 200 None
+2024-11-06 10:27:45,942 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:45,942 - DEBUG - (.//article)[1]
+2024-11-06 10:27:45,944 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:45,944 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:45,944 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,945 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,945 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,945 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,945 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,945 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,945 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:45,945 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,946 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,946 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:45,946 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:45,946 - DEBUG - extracted length: 25 (algorithm) 983 (extraction)
+2024-11-06 10:27:45,946 - DEBUG - using custom extraction: None
+2024-11-06 10:27:45,947 - INFO - Successfully parsed article: Ông Trump áp đảo ở các bang chiến trường
+2024-11-06 10:27:46,065 - DEBUG - https://vnexpress.net:443 "GET /truyen-thong-my-xuong-ten-nguoi-dac-cu-the-nao-4811304.html HTTP/11" 200 None
+2024-11-06 10:27:46,078 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:46,078 - DEBUG - (.//article)[1]
+2024-11-06 10:27:46,080 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:46,080 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:46,081 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,081 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,081 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,081 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,081 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,081 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,081 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:46,082 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,082 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,082 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,082 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,083 - DEBUG - extracted length: 25 (algorithm) 6345 (extraction)
+2024-11-06 10:27:46,083 - DEBUG - using custom extraction: None
+2024-11-06 10:27:46,084 - INFO - Successfully parsed article: Truyền thông Mỹ xướng tên người đắc cử thế nào
+2024-11-06 10:27:46,192 - DEBUG - https://vnexpress.net:443 "GET /ly-do-my-kho-cong-bo-nguoi-chien-thang-ngay-dem-bau-cu-4810347.html HTTP/11" 200 None
+2024-11-06 10:27:46,209 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:46,209 - DEBUG - (.//article)[1]
+2024-11-06 10:27:46,211 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:46,212 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:46,212 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,212 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,212 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,212 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,212 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,213 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,213 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:46,213 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,213 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,213 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,213 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,214 - DEBUG - extracted length: 25 (algorithm) 7220 (extraction)
+2024-11-06 10:27:46,214 - DEBUG - using custom extraction: None
+2024-11-06 10:27:46,215 - INFO - Successfully parsed article: Lý do Mỹ khó công bố người chiến thắng ngay đêm bầu cử
+2024-11-06 10:27:46,323 - DEBUG - https://vnexpress.net:443 "GET /nguoi-my-goc-viet-neu-ly-do-bau-cho-trump-harris-4812306.html HTTP/11" 200 None
+2024-11-06 10:27:46,350 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:46,350 - DEBUG - (.//article)[1]
+2024-11-06 10:27:46,352 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:46,352 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:46,352 - DEBUG - Removed div with score  0.000 and weight -25
+2024-11-06 10:27:46,353 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,353 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,353 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,353 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,353 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,353 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,353 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,353 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,354 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:46,354 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,354 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,354 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,354 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,354 - DEBUG - Removed  0.000 section with weight 50 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,354 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,355 - DEBUG - extracted length: 0 (algorithm) 5172 (extraction)
+2024-11-06 10:27:46,355 - DEBUG - using custom extraction: None
+2024-11-06 10:27:46,356 - INFO - Successfully parsed article: Người Mỹ gốc Việt nêu lý do bầu cho Trump, Harris
+2024-11-06 10:27:46,476 - DEBUG - https://vnexpress.net:443 "GET /thu-tuong-israel-sa-thai-bo-truong-quoc-phong-4812574.html HTTP/11" 200 None
+2024-11-06 10:27:46,485 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:46,485 - DEBUG - (.//article)[1]
+2024-11-06 10:27:46,486 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:46,487 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:46,487 - DEBUG - Removed div with score  0.000 and weight -25
+2024-11-06 10:27:46,487 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,487 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,487 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,488 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,488 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,488 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,488 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,488 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,488 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:46,488 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,489 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,489 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,489 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,489 - DEBUG - Removed  0.000 section with weight 50 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,489 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,489 - DEBUG - extracted length: 0 (algorithm) 1942 (extraction)
+2024-11-06 10:27:46,489 - DEBUG - using custom extraction: None
+2024-11-06 10:27:46,490 - INFO - Successfully parsed article: Thủ tướng Israel sa thải Bộ trưởng Quốc phòng
+2024-11-06 10:27:46,607 - DEBUG - https://vnexpress.net:443 "GET /nguoi-dan-khap-the-gioi-theo-doi-bau-cu-tong-thong-my-4812524.html HTTP/11" 200 None
+2024-11-06 10:27:46,629 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:46,629 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,629 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,629 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,629 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:46,630 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div  
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div  
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div Hà mã con trong vườn thú Thái Lan dự đoán ông Trump đắc cử
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,631 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,632 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,633 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+ 
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+
+
+2024-11-06 10:27:46,634 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:46,634 - DEBUG - (.//article)[1]
+2024-11-06 10:27:46,640 - DEBUG - Top 5: div 28.889999999999997
+2024-11-06 10:27:46,640 - DEBUG - Top 5: div 28.889999999999997
+2024-11-06 10:27:46,641 - DEBUG - Top 5: div 28.09
+2024-11-06 10:27:46,641 - DEBUG - Top 5: div 28.09
+2024-11-06 10:27:46,641 - DEBUG - Top 5: div 19.37
+2024-11-06 10:27:46,641 - DEBUG - extracted length: 692 (algorithm) 8894 (extraction)
+2024-11-06 10:27:46,641 - DEBUG - using custom extraction: None
+2024-11-06 10:27:46,643 - INFO - Successfully parsed article: Người dân khắp thế giới theo dõi bầu cử tổng thống Mỹ
+2024-11-06 10:27:46,752 - DEBUG - https://vnexpress.net:443 "GET /nga-cao-buoc-ukraine-dinh-chiem-nha-may-dien-hat-nhan-o-kursk-4812566.html HTTP/11" 200 None
+2024-11-06 10:27:46,767 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:46,767 - DEBUG - (.//article)[1]
+2024-11-06 10:27:46,769 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:46,769 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:46,769 - DEBUG - Removed div with score  0.000 and weight -25
+2024-11-06 10:27:46,770 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,770 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,770 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,770 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,770 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,770 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,770 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,771 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,771 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:46,771 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,771 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,771 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,771 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,771 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,772 - DEBUG - Removed  0.000 ul with weight 0 cause it has too many links 0.888 for its weight 0.
+2024-11-06 10:27:46,772 - DEBUG - Removed  0.000 section with weight 50 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,772 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,772 - DEBUG - extracted length: 0 (algorithm) 2584 (extraction)
+2024-11-06 10:27:46,772 - DEBUG - using custom extraction: None
+2024-11-06 10:27:46,773 - INFO - Successfully parsed article: Nga cáo buộc Ukraine định chiếm nhà máy điện hạt nhân ở Kursk
+2024-11-06 10:27:46,892 - DEBUG - https://vnexpress.net:443 "GET /noi-stress-cua-cu-tri-my-trong-ky-bau-cu-4812516.html HTTP/11" 200 None
+2024-11-06 10:27:46,905 - DEBUG - list link text/total: 29/29 – short elems/total: 0/1
+2024-11-06 10:27:46,905 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:46,906 - DEBUG - (.//article)[1]
+2024-11-06 10:27:46,907 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:46,907 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:46,908 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,908 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,908 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,908 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,908 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,908 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,909 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:46,909 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,909 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,909 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:46,909 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:46,910 - DEBUG - extracted length: 25 (algorithm) 5105 (extraction)
+2024-11-06 10:27:46,910 - DEBUG - using custom extraction: None
+2024-11-06 10:27:46,911 - INFO - Successfully parsed article: Nỗi stress của cử tri Mỹ trong kỳ bầu cử
+2024-11-06 10:27:47,031 - DEBUG - https://vnexpress.net:443 "GET /cach-gioi-chuc-my-ngan-phieu-bau-ma-4812442.html HTTP/11" 200 None
+2024-11-06 10:27:47,042 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:47,042 - DEBUG - (.//article)[1]
+2024-11-06 10:27:47,044 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:47,044 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:47,044 - DEBUG - Removed div with score  0.000 and weight -25
+2024-11-06 10:27:47,044 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,044 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,044 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,044 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,045 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,045 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,045 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,045 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,045 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:47,045 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,045 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,045 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,046 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:47,046 - DEBUG - Removed  0.000 section with weight 50 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,046 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:47,046 - DEBUG - extracted length: 0 (algorithm) 3119 (extraction)
+2024-11-06 10:27:47,046 - DEBUG - using custom extraction: None
+2024-11-06 10:27:47,047 - INFO - Successfully parsed article: Cách giới chức Mỹ ngăn 'phiếu bầu ma'
+2024-11-06 10:27:47,166 - DEBUG - https://vnexpress.net:443 "GET /ly-do-ong-trump-van-duoc-bo-phieu-du-da-bi-ket-toi-4812551.html HTTP/11" 200 None
+2024-11-06 10:27:47,177 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:47,177 - DEBUG - (.//article)[1]
+2024-11-06 10:27:47,179 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:47,179 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:47,179 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,179 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,179 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,180 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,180 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,180 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,180 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:47,180 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,180 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,180 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,181 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:47,181 - DEBUG - extracted length: 25 (algorithm) 1768 (extraction)
+2024-11-06 10:27:47,181 - DEBUG - using custom extraction: None
+2024-11-06 10:27:47,182 - INFO - Successfully parsed article: Lý do ông Trump vẫn được bỏ phiếu dù đã bị kết tội
+2024-11-06 10:27:47,301 - DEBUG - https://vnexpress.net:443 "GET /tiem-kich-an-do-xoay-nhu-la-vang-khi-roi-xuong-dat-4812547.html HTTP/11" 200 None
+2024-11-06 10:27:47,313 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:47,313 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:47,313 - DEBUG - (.//article)[1]
+2024-11-06 10:27:47,315 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:47,315 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:47,315 - DEBUG - Removed div with score  0.000 and weight -25
+2024-11-06 10:27:47,315 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,315 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,315 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,315 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,316 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,316 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,316 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,316 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,316 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:47,316 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,316 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,317 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,317 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:47,317 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,317 - DEBUG - Removed  0.000 ul with weight 0 cause it has too many links 0.888 for its weight 0.
+2024-11-06 10:27:47,317 - DEBUG - Removed  0.000 section with weight 50 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,317 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:47,317 - DEBUG - extracted length: 0 (algorithm) 1833 (extraction)
+2024-11-06 10:27:47,317 - DEBUG - using custom extraction: None
+2024-11-06 10:27:47,318 - INFO - Successfully parsed article: Tiêm kích Ấn Độ 'xoay như lá vàng' khi rơi xuống đất
+2024-11-06 10:27:47,435 - DEBUG - https://vnexpress.net:443 "GET /nguoi-an-do-toi-den-tho-cau-nguyen-cho-ba-harris-dac-cu-4812478.html HTTP/11" 200 None
+2024-11-06 10:27:47,447 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:47,447 - DEBUG - (.//article)[1]
+2024-11-06 10:27:47,449 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:47,449 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:47,449 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,449 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,449 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,450 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,450 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,450 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,450 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:47,450 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,450 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,450 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,451 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:47,451 - DEBUG - extracted length: 25 (algorithm) 1763 (extraction)
+2024-11-06 10:27:47,451 - DEBUG - using custom extraction: None
+2024-11-06 10:27:47,452 - INFO - Successfully parsed article: Người Ấn Độ tới đền thờ cầu nguyện cho bà Harris đắc cử
+2024-11-06 10:27:47,573 - DEBUG - https://vnexpress.net:443 "GET /an-so-tu-cu-tri-tham-lang-trong-bau-cu-my-4812154.html HTTP/11" 200 None
+2024-11-06 10:27:47,585 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:47,585 - DEBUG - (.//article)[1]
+2024-11-06 10:27:47,587 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:47,587 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:47,587 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,588 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,588 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,588 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,588 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,588 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,588 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:47,588 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,588 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,589 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:47,589 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:47,589 - DEBUG - extracted length: 25 (algorithm) 6601 (extraction)
+2024-11-06 10:27:47,589 - DEBUG - using custom extraction: None
+2024-11-06 10:27:47,591 - INFO - Successfully parsed article: Ẩn số từ cử tri thầm lặng trong bầu cử Mỹ
+2024-11-06 10:27:48,129 - DEBUG - https://vnexpress.net:443 "GET /may-bo-phieu-bau-tong-thong-my-hoat-dong-nhu-the-nao-4811827.html HTTP/11" 200 None
+2024-11-06 10:27:48,147 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:48,147 - DEBUG - discarding element: div 
+
+2024-11-06 10:27:48,147 - DEBUG - (.//article)[1]
+2024-11-06 10:27:48,149 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:48,149 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:48,149 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,150 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,150 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,150 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,150 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,150 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,150 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:48,150 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,151 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,151 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,151 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:48,151 - DEBUG - extracted length: 25 (algorithm) 1627 (extraction)
+2024-11-06 10:27:48,151 - DEBUG - using custom extraction: None
+2024-11-06 10:27:48,152 - INFO - Successfully parsed article: Máy bỏ phiếu bầu tổng thống Mỹ hoạt động như thế nào?
+2024-11-06 10:27:48,260 - DEBUG - https://vnexpress.net:443 "GET /phat-bieu-khep-lai-chien-dich-tranh-cu-cua-trump-harris-4812341.html HTTP/11" 200 None
+2024-11-06 10:27:48,286 - DEBUG - ['blockquote', 'code', 'del', 'div', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:48,287 - DEBUG - Recovering wild text elements
+2024-11-06 10:27:48,289 - DEBUG - list link text/total: 68/75 – short elems/total: 7/8
+2024-11-06 10:27:48,289 - DEBUG - list link text/total: 17/18 – short elems/total: 2/2
+2024-11-06 10:27:48,289 - DEBUG - list link text/total: 17/18 – short elems/total: 2/2
+2024-11-06 10:27:48,289 - DEBUG - list link text/total: 51/56 – short elems/total: 5/6
+2024-11-06 10:27:48,289 - DEBUG - list link text/total: 51/56 – short elems/total: 5/6
+2024-11-06 10:27:48,289 - DEBUG - list link text/total: 51/56 – short elems/total: 5/6
+2024-11-06 10:27:48,290 - DEBUG - list link text/total: 16/16 – short elems/total: 0/1
+2024-11-06 10:27:48,290 - DEBUG - list link text/total: 8/41 – short elems/total: 1/1
+2024-11-06 10:27:48,290 - DEBUG - list link text/total: 52/53 – short elems/total: 0/2
+2024-11-06 10:27:48,290 - DEBUG - list link text/total: 20/20 – short elems/total: 0/1
+2024-11-06 10:27:48,290 - DEBUG - list link text/total: 8/8 – short elems/total: 1/1
+2024-11-06 10:27:48,292 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:48,292 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:48,293 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,293 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,293 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,293 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,293 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,293 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,294 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:48,294 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,294 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,294 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,294 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:48,295 - DEBUG - extracted length: 25 (algorithm) 194 (extraction)
+2024-11-06 10:27:48,295 - DEBUG - using custom extraction: None
+2024-11-06 10:27:48,295 - DEBUG - unclean document triggering justext examination: None
+2024-11-06 10:27:48,483 - DEBUG - non-clean extracted length: 156 (extraction)
+2024-11-06 10:27:48,484 - INFO - Successfully parsed article: Phát biểu khép lại chiến dịch tranh cử của Trump - Harris
+2024-11-06 10:27:48,598 - DEBUG - https://vnexpress.net:443 "GET /thu-tuong-tang-chan-dung-chu-tich-ho-chi-minh-cho-khu-di-tich-o-van-nam-4812512.html HTTP/11" 200 None
+2024-11-06 10:27:48,608 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:48,608 - DEBUG - (.//article)[1]
+2024-11-06 10:27:48,610 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:48,610 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:48,610 - DEBUG - Removed div with score  0.000 and weight -25
+2024-11-06 10:27:48,610 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,610 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,610 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,610 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,611 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,611 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,611 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,611 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,611 - DEBUG - Removed  0.000 ul with weight 0 cause it has too short content length 16 without a single image.
+2024-11-06 10:27:48,611 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,611 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,611 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,612 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:48,612 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,612 - DEBUG - Removed  0.000 ul with weight 0 cause it has too many links 0.888 for its weight 0.
+2024-11-06 10:27:48,612 - DEBUG - Removed  0.000 section with weight 50 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,612 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:48,612 - DEBUG - extracted length: 0 (algorithm) 2453 (extraction)
+2024-11-06 10:27:48,613 - DEBUG - using custom extraction: None
+2024-11-06 10:27:48,613 - INFO - Successfully parsed article: Thủ tướng tặng chân dung Chủ tịch Hồ Chí Minh cho khu di tích ở Vân Nam
+2024-11-06 10:27:48,727 - DEBUG - https://vnexpress.net:443 "GET /cac-diem-bo-phieu-bau-tong-thong-tren-khap-nuoc-my-mo-cua-4812455.html HTTP/11" 200 None
+2024-11-06 10:27:48,745 - DEBUG - list link text/total: 15/16 – short elems/total: 2/2
+2024-11-06 10:27:48,745 - DEBUG - list link text/total: 7/69 – short elems/total: 1/1
+2024-11-06 10:27:48,746 - DEBUG - list link text/total: 7/69 – short elems/total: 1/1
+2024-11-06 10:27:48,747 - DEBUG - ['blockquote', 'code', 'del', 'head', 'hi', 'lb', 'list', 'p', 'pre', 'quote']
+2024-11-06 10:27:48,760 - DEBUG - Ended up stripping too much - going for a safer parse
+2024-11-06 10:27:48,760 - DEBUG - Ruthless and lenient parsing did not work. Returning raw html
+2024-11-06 10:27:48,760 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,760 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,761 - DEBUG - Removed  0.000 section with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,761 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,761 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,761 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,761 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,761 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,761 - DEBUG - Removed  0.000 div with weight 0 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,762 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,762 - DEBUG - Removed  0.000 section with weight 25 cause it has too short content length 0 without a single image.
+2024-11-06 10:27:48,762 - DEBUG - Removed section with score  0.000 and weight -25
+2024-11-06 10:27:48,762 - DEBUG - extracted length: 25 (algorithm) 7013 (extraction)
+2024-11-06 10:27:48,762 - DEBUG - using custom extraction: None
+2024-11-06 10:27:48,764 - INFO - Successfully parsed article: Ông Trump cáo buộc 'gian lận tràn lan' ở Philadelphia
