@@ -27,7 +27,7 @@ task = "packager.installForAll"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "python scraper.py"
+args = "python scraper.py --excel-output custom_articles.xlsx --text-output custom_articles.txt"
 
 [deployment]
-run = ["sh", "-c", "python scraper.py"]
+run = ["sh", "-c", "python scraper.py --excel-output custom_articles.xlsx --text-output custom_articles.txt"]

@@ -17,7 +17,8 @@ from config import (
 from utils import setup_logging, extract_article_id, is_advertisement
 
 class VnExpressScraper:
-    def __init__(self, url: Optional[str] = None, xpath_config: Optional[Dict] = None):
+    def __init__(self, url: Optional[str] = None, xpath_config: Optional[Dict] = None,
+                 excel_filename: Optional[str] = None, text_filename: Optional[str] = None):
         setup_logging()
         self.session = requests.Session()
         self.session.headers.update(HEADERS)
@@ -27,6 +28,10 @@ class VnExpressScraper:
         
         # Use custom XPath config if provided, otherwise use default
         self.xpath_config = xpath_config if xpath_config else DEFAULT_CONFIG['xpath_selectors']
+
+        # Use custom filenames if provided, otherwise use defaults
+        self.excel_filename = excel_filename if excel_filename else EXCEL_SETTINGS['filename']
+        self.text_filename = text_filename if text_filename else TEXT_SETTINGS['filename']
 
     def fetch_page(self, url: str) -> Optional[str]:
         """Fetch page content with retry logic"""
@@ -120,7 +125,7 @@ class VnExpressScraper:
             
             # Create Excel writer with openpyxl engine
             with pd.ExcelWriter(
-                EXCEL_SETTINGS['filename'],
+                self.excel_filename,  # Use custom filename
                 engine='openpyxl',
                 mode='w'
             ) as writer:
@@ -172,7 +177,7 @@ class VnExpressScraper:
                         cell.border = thin_border
                         cell.alignment = data_alignment
             
-            logging.info(f"Successfully exported {len(articles)} articles to {EXCEL_SETTINGS['filename']}")
+            logging.info(f"Successfully exported {len(articles)} articles to {self.excel_filename}")
             return True
             
         except Exception as e:
@@ -187,7 +192,7 @@ class VnExpressScraper:
                 return False
 
             logging.info(f"Starting text export of {len(articles)} articles")
-            with open(TEXT_SETTINGS['filename'], 'w', encoding=TEXT_SETTINGS['encoding']) as f:
+            with open(self.text_filename, 'w', encoding=TEXT_SETTINGS['encoding']) as f:
                 for i, article in enumerate(articles, 1):
                     logging.debug(f"Writing article {i} to text file")
                     # Write article header
@@ -208,7 +213,7 @@ class VnExpressScraper:
                     if i < len(articles):
                         f.write(TEXT_SETTINGS['separator'])
 
-            logging.info(f"Successfully exported {len(articles)} articles to {TEXT_SETTINGS['filename']}")
+            logging.info(f"Successfully exported {len(articles)} articles to {self.text_filename}")
             return True
 
         except Exception as e:
@@ -246,6 +251,8 @@ def parse_args():
     parser.add_argument('--title-xpath', type=str, help='XPath for title elements')
     parser.add_argument('--title-attr', type=str, help='Attribute name for title')
     parser.add_argument('--url-attr', type=str, help='Attribute name for URL')
+    parser.add_argument('--excel-output', type=str, help='Custom filename for Excel output (default: vnexpress_articles.xlsx)')
+    parser.add_argument('--text-output', type=str, help='Custom filename for text output (default: vnexpress_articles.txt)')
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -261,5 +268,10 @@ if __name__ == "__main__":
             'url_attr': args.url_attr or DEFAULT_CONFIG['xpath_selectors']['url_attr']
         }
     
-    scraper = VnExpressScraper(url=args.url, xpath_config=xpath_config)
+    scraper = VnExpressScraper(
+        url=args.url,
+        xpath_config=xpath_config,
+        excel_filename=args.excel_output,
+        text_filename=args.text_output
+    )
     scraper.run()
