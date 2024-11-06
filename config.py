@@ -10,10 +10,10 @@ HEADERS = {
 
 # Default scraping configurations
 DEFAULT_CONFIG = {
-    'url': 'https://vnexpress.net/the-gioi',
+    'url': 'https://vnexpress.net',  # Updated to main homepage
     'xpath_selectors': {
-        'article': "//article[@data-offset or @data-swap]",
-        'title': ".//h3/a[@title]",
+        'article': "//article[contains(@class, 'item-news') or contains(@class, 'full-content')]",  # Updated selector
+        'title': ".//h3[@class='title-news']/a | .//h2[@class='title-news']/a",  # Updated to catch both h3 and h2 titles
         'title_attr': 'title',
         'url_attr': 'href'
     }
@@ -26,6 +26,7 @@ AD_PATTERNS = [
     'class="advertisement"',
     'class="sponsor"',
     'class="branded-content"',
+    'class="promotion"',  # Added common promotion class
 ]
 
 # Maximum retries for failed requests
