@@ -6,6 +6,8 @@ from typing import List, Dict, Optional
 import time
 import trafilatura
 from lxml import html
+from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
+from openpyxl.utils import get_column_letter
 
 from config import HEADERS, BASE_URL, MAX_RETRIES, TIMEOUT, EXCEL_SETTINGS
 from utils import setup_logging, extract_article_id, is_advertisement
@@ -80,7 +82,7 @@ class VnExpressScraper:
         return articles
 
     def export_to_excel(self, articles: List[Dict]) -> bool:
-        """Export articles to Excel file"""
+        """Export articles to Excel file with proper formatting"""
         try:
             if not articles:
                 logging.warning("No articles to export")
@@ -88,21 +90,62 @@ class VnExpressScraper:
                 
             df = pd.DataFrame(articles)
             
-            # Update columns to exclude timestamp
+            # Define columns
             columns = ['ID', 'URL', 'Title']
             
-            # Ensure proper encoding for Vietnamese characters
+            # Create Excel writer with openpyxl engine
             with pd.ExcelWriter(
                 EXCEL_SETTINGS['filename'],
                 engine='openpyxl',
                 mode='w'
             ) as writer:
+                # Convert DataFrame to Excel
                 df.to_excel(
                     writer,
                     sheet_name=EXCEL_SETTINGS['sheet_name'],
                     index=False,
                     columns=columns
                 )
+                
+                # Get the workbook and worksheet
+                workbook = writer.book
+                worksheet = writer.sheets[EXCEL_SETTINGS['sheet_name']]
+                
+                # Define styles
+                header_font = Font(name='Calibri', size=12, bold=True, color='FFFFFF')
+                header_fill = PatternFill(start_color='4F81BD', end_color='4F81BD', fill_type='solid')
+                header_alignment = Alignment(horizontal='center', vertical='center', wrap_text=True)
+                thin_border = Border(
+                    left=Side(style='thin'),
+                    right=Side(style='thin'),
+                    top=Side(style='thin'),
+                    bottom=Side(style='thin')
+                )
+                
+                # Apply header styles
+                for col_num, column in enumerate(columns, 1):
+                    cell = worksheet.cell(row=1, column=col_num)
+                    cell.font = header_font
+                    cell.fill = header_fill
+                    cell.alignment = header_alignment
+                    cell.border = thin_border
+                
+                # Auto-adjust column widths
+                for idx, col in enumerate(columns):
+                    column_width = max(
+                        len(str(df[col].iloc[i])) for i in range(len(df))
+                    )
+                    column_width = max(column_width, len(col)) + 2
+                    column_letter = get_column_letter(idx + 1)
+                    worksheet.column_dimensions[column_letter].width = min(column_width, 50)
+                
+                # Apply borders and alignment to all cells
+                data_alignment = Alignment(horizontal='left', vertical='center', wrap_text=True)
+                for row in range(2, len(df) + 2):
+                    for col in range(1, len(columns) + 1):
+                        cell = worksheet.cell(row=row, column=col)
+                        cell.border = thin_border
+                        cell.alignment = data_alignment
             
             logging.info(f"Successfully exported {len(articles)} articles to {EXCEL_SETTINGS['filename']}")
             return True
