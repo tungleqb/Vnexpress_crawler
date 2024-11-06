@@ -1,45 +1,186 @@
 Article 1
 ----------------------------------------
-ID: 4812573
-Title: Báo Mỹ nói Donald Trump đắc cử tổng thống Mỹ
-URL: https://vnexpress.net/my-bat-dau-kiem-phieu-bau-tong-thong-4812573.html
+ID: 4812920
+Title: Lý do bà Harris thất bại trong cuộc đua vào Nhà Trắng
+URL: https://vnexpress.net/ly-do-ba-harris-that-bai-trong-cuoc-dua-vao-nha-trang-4812920.html
 
 Content:
--
-Bà Harris thắng ở Minnesota
-Bà Harris giành chiến thắng tại Minnesota, có thêm 10 phiếu đại cử tri. Không ứng viên tổng thống nào của đảng Cộng hòa giành chiến thắng tại Minnesota kể từ khi Richard Nixon thắng ở đây năm 1972.
--
-Trump thắng ở Pennsylvania
-AP xác định ông Trump giành chiến thắng tại bang chiến trường trọng yếu Pennsylvania và có thêm 19 phiếu đại cử tri. Với chiến thắng quan trọng này, ông hiện có 267 phiếu đại cử tri.
-Kể từ năm 1948, chưa ứng viên Dân chủ nào đắc cử vào Nhà Trắng mà không thắng ở Pennsylvania.
--
-Nhân viên chiến dịch bất ngờ vì kết quả của ông Trump
-Trong đêm bầu cử, nhóm chiến dịch vận động tranh cử của Trump khá tự tin với kết quả, nhưng nhiều người không ngờ ông sẽ tới gần chiến thắng nhanh như vậy. Nhiều trợ lý cho rằng ông sẽ thắng với khoảng cách rất sít sao hoặc phải mất nhiều ngày để tìm ra người đắc cử. Tuy nhiên, mọi thứ giờ đây đã thay đổi, khi một số hãng truyền thông dự đoán Trump đã đắc cử, trở thành Tổng thống thứ 47 của nước Mỹ.
--
-Trump được dự báo đắc cử
-Với 94% số phiếu đã kiểm ở bang chiến trường Pennsylvania, ông Trump đang giành được 51%, bà Harris 48%, giúp ông tiến sát ngưỡng giành chiến thắng ở bang này.
-Fox News dự báo Trump đã đánh bại đối thủ ở Pennsylvania, nơi có 19 phiếu đại cử tri, hội đủ tối thiểu 270 phiếu đại cử tri để đắc cử. Các hãng truyền thông khác như AP, CNN chưa công bố người chiến thắng tại bang này.
-Từ trước khi bầu cử diễn ra, bang này đã được đánh giá là nơi quyết định người chiến thắng cuộc đua vào Nhà Trắng năm nay. Cả hai ứng viên đều tập trung cao độ vào bang này, với nhiều sự kiện vận động tranh cử và lượng quảng cáo kỷ lục.
--
-Trump giành thêm phiếu đại cử tri
-Ông Trump tiếp tục thắng tại khu vực bầu cử số 2 của bang Maine, giành thêm một phiếu đại cử tri, nâng tổng số phiếu đại cử tri lên 248.
--
-Người ủng hộ ông Trump reo hò ăn mừng
-Người ủng hộ Trump có mặt tại Trung tâm Hội nghị Palm Beach để theo dõi kết quả bầu cử đã ôm nhau, gọi điện, nhảy lên và ném mũ MAGA ăn mừng khi kết quả kiểm phiếu liên tục được công bố. Ngày càng nhiều người tiếp tục đổ về địa điểm này.
--
-Tỷ phú hỗ trợ bà Harris chúc mừng ông Trump
-Tỷ phú Mark Cuban, người tích cực hỗ trợ bà Harris trong những tuần cuối tranh cử, đăng lên X thông điệp chúc mừng ông Trump đã "chiến thắng một cách công bằng" và chúc mừng cả tỷ phú Elon Musk, dù ứng viên đắc cử chưa được xướng tên.
--
-Bà Harris thắng ở New Hampshire
-Với chiến thắng ở New Hampshire, Phó tổng thống nhận thêm 4 phiếu đại cử tri.
--
-Trump rộng đường quay lại Nhà Trắng
-Với chiến thắng ở Georgia, Trump chỉ cần thắng thêm ở Pennsylvania hoặc Michigan để đạt ngưỡng 270 phiếu cần thiết. Bà Harris vẫn có cơ hội thắng, nhưng cần giành được toàn bộ phiếu đại cử tri ở cả ba bang chiến trường Michigan, Pennsylvania và Wisconsin. Nếu thua ở Wisconsin, bà cần đảm bảo chiến thắng ở Arizona.
--
-Georgia là bang "đảo chiều" đầu tiên của ông Trump năm nay
-Với chiến thắng của Trump tại Georgia, bang này trở thành nơi đầu tiên đảo chiều kết quả so với 4 năm trước. Năm 2020, ông Trump thua ông Biden tại Georgia với cách biệt 11.779 phiếu bầu.
+Bà Kamala Harris bắt đầu tranh cử từ tháng 8, sau khi Tổng thống Joe Biden tuyên bố rút khỏi cuộc đua vào Nhà Trắng. Toàn bộ hành trình vận động của ứng viên Dân chủ kéo dài hơn 100 ngày, ngắn nhất lịch sử chính trị hiện đại Mỹ. Bà được hàng loạt cựu tổng thống, sao giải trí có tầm ảnh hưởng ủng hộ.
+Tuy nhiên, kết quả kiểm phiếu tại các bang sau ngày bầu cử 5/11 cho thấy cuộc đua thực tế không sít sao như những gì thể hiện trong các cuộc thăm dò trước đó. Với 45 bang và thủ đô Washington đã phân thắng bại, ông Trump nhận 277 phiếu, đắc cử tổng thống còn bà Harris nhận 224 phiếu. Bà để thua ở 4 trong 7 bang chiến trường. 3 bang còn lại chưa có kết quả cuối cùng nhưng đều ngả đỏ.
+Giới chuyên gia cho rằng bà Harris đã có một chiến dịch tranh cử "tệ nhất lịch sử". Thời gian tranh cử quá ngắn, thiếu đề xuất cụ thể trong khi cử tri có dấu hiệu không hài lòng với chính quyền đương nhiệm được cho là nguyên nhân khiến bà Harris không thể trở thành nữ tổng thống Mỹ đầu tiên.
+"Những đề xuất bà đưa ra cho người dân Mỹ thiếu thực chất, không khác gì 'ai cũng được, miễn không phải ông Trump'", Camilla Tominey, cây viết chính trị của Telegraph bình luận. "Bà ấy chủ động tránh né truyền thông, và khi trả lời phỏng vấn, bà ấy lại dành hầu hết thời gian để công kích Trump thay vì nêu cụ thể mình có thể làm gì khác biệt".
+Bà Harris từng tranh cử tổng thống tháng 1/2019 nhưng rút lui vào tháng 12 cùng năm với lý do không đủ nguồn lực. Ông Biden tháng 8/2020 chọn bà Harris làm ứng viên cấp phó, đánh bại cặp Trump - Pence của đảng Cộng hòa.
+Phó tổng thống Mỹ năm nay có cơ hội để làm nên lịch sử, nhưng cơ hội đắc cử lần này liên quan mật thiết đến ông Biden cũng như hiệu quả điều hành đất nước trong gần 4 năm qua của ông chủ Nhà Trắng.
+Ông Biden liên tục nhận đánh giá tín nhiệm thấp, với khoảng 2/3 cử tri cho rằng Mỹ đang đi sai hướng. Lạm phát Mỹ đạt đỉnh trong nhiệm kỳ của ông Biden, sau đó hạ nhiệt phần nào nhờ chính sách tiền tệ của Cục Dự trữ Liên bang (Fed). Thế giới xảy ra hai cuộc xung đột lớn, khiến nhiều cử tri nhớ về giai đoạn hòa bình và kinh tế thịnh vượng trước đại dịch Covid-19 dưới thời Trump.
+Trong hầu hết năm 2024, ông Biden cùng các quan chức lãnh đạo đảng Dân chủ vẫn tự tin Tổng thống dễ dàng tái đắc cử, nhờ những thành tựu về lập pháp. Đây được cho là lý do ông Biden không rời cuộc đua sớm, bất chấp các lo ngại về tuổi tác.
+Sau khi thừa hưởng chiến dịch từ ông Biden, bà Harris nhanh chóng giúp đảng Dân chủ đoàn kết, tập hợp sự ủng hộ từ cử tri và giúp thu về lượng tiền quyên góp kỷ lục cho nỗ lực tranh cử.
+Nhưng những động lực này không giúp bà Harris "thoát bóng" ông Biden, và khó thuyết phục cử tri rằng mình sẽ đưa Mỹ sang trang mới. Bà không thể hiện mình khác biệt thế nào khi cử tri cho bà cơ hội, ngoại trừ "sẵn sàng đưa thành viên Cộng hòa vào nội các nếu đắc cử".
+Dù vậy, chiến dịch của Phó tổng thống không cho rằng bà Harris gánh trách nhiệm. "Chúng tôi đã triển khai chiến dịch tốt nhất có thể, khi ông Joe Biden vẫn đang là Tổng thống", một trợ lý của bà Harris nói với Politico. "Ông Joe Biden là lý do duy nhất khiến bà Harris và phe Dân chủ thua tối nay". Một cố vấn khác cho rằng ông Biden lẽ ra nên rút lui sớm hơn.
+Ngay từ khi bắt đầu chiến dịch, bà Harris đã biến cuộc đua vào Nhà Trắng thành cuộc trưng cầu dân ý về ông Trump. Bà đề cập quá khứ làm công tố viên, đối lập với hàng loạt rắc rối pháp lý của Trump. Cựu tổng thống đang đối mặt 4 vụ truy tố cấp bang và liên bang, trong đó đã bị kết tội vụ làm giả hồ sơ kinh doanh để ém thông tin khi tranh cử năm 2016 ở New York.
+Trong những tuần cuối chiến dịch, bà Harris càng gia tăng công kích, gọi cựu tổng thống là "kẻ phát xít", cảnh báo ông "bất ổn và rối loạn". Bà định hình cuộc bầu cử là cuộc chiến vì nền dân chủ, không khác nhiều so với nỗ lực của ông Biden trước đó.
+Harris cũng dành phần lớn thời gian để công kích Trump trong những cuộc phỏng vấn hiếm hoi với truyền thông.
+Bà không nêu rõ lập trường về hai cuộc xung đột ở Trung Đông và Ukraine. Về Mỹ, bà cũng không đưa ra câu trả lời đáng tin nào về nỗ lực xử lý các vấn đề trong nước. Bà chủ yếu hướng đến nhóm cử tri nữ với các thông điệp ủng hộ quyền phá thai, điều mà ông Trump cho rằng nên để tùy các bang quyết định.
+"Kamala Harris thất cử vì chuyển trọng tâm sang công kích ông Trump", theo nhà thăm dò kỳ cựu Frank Luntz. "Cử tri vốn đã biết mọi thứ về Trump và họ muốn biết nhiều hơn về kế hoạch của Harris trong giờ đầu tiên, ngày đầu tiên, tháng đầu tiên và năm đầu tiên nếu bà đắc cử".
+"Đó là sai lầm khủng khiếp, khi chiến dịch của bà lại chiếu đèn sân khấu vào Trump hơn là các đề xuất chính sách của Harris", Luntz nói với USA Today.
+Thất bại của bà Harris đánh dấu lần thứ hai trong ba mùa bầu cử gần đây đảng Dân chủ đặt kỳ vọng vào một ứng viên nữ, với niềm tin có thể tạo nên lịch sử. Nhưng cả hai người đều bị ông Trump đánh bại.
+Jason Miller, cố vấn chiến dịch của ông Trump, đã xác định được bước ngoặt trong cuộc đua giữa hai ứng viên, khi còn cách ngày bầu cử gần một tháng. Đó là khi bà Harris trả lời phỏng vấn từ Sunny Hostin, đồng dẫn chương trình The View vào ngày 8/10.
+Hostin hỏi bà Harris một câu, được đánh giá là dễ, rằng nếu đắc cử, ứng viên Dân chủ sẽ làm gì khác biệt so với chính quyền ông Biden. "Chưa có điều gì hiện ra trong tâm trí tôi", bà Harris đáp lại. Câu trả lời lập tức khiến đội ngũ cố vấn của Phó tổng thống lo ngại và trở thành yếu tố để phe ông Trump công kích.
+Trong những tuần tiếp theo, bà Harris đã cố gắng sửa chữa sai lầm nhưng tác động tiêu cực từ bình luận này khó đảo ngược. "Ai mà ngờ được Sunny Hostin của The View lại đặt dấu chấm hết cho nỗ lực của bà Harris?", Miller nói.
+Như Tâm (Theo Politico, USA Today)
 ================================================================================
 Article 2
+----------------------------------------
+ID: 4812836
+Title: Người ủng hộ Trump reo hò, bật khóc ăn mừng
+URL: https://vnexpress.net/nguoi-ung-ho-trump-reo-ho-bat-khoc-an-mung-4812836.html
+
+Content:
+Mike Garvonic giơ biểu ngữ mang số 47 chúc mừng ứng viên đảng Cộng hòa sẽ trở thành tổng thống thứ 47 của nước Mỹ, trong sự kiện theo dõi bầu cử rạng sáng 6/11 tại trung tâm hội nghị Suburban Showplace Collection ở Novi, bang Michigan.
+Mike Garvonic giơ biểu ngữ mang số 47 chúc mừng ứng viên đảng Cộng hòa sẽ trở thành tổng thống thứ 47 của nước Mỹ, trong sự kiện theo dõi bầu cử rạng sáng 6/11 tại trung tâm hội nghị Suburban Showplace Collection ở Novi, bang Michigan.
+Người ủng hộ ông Trump bật khóc vì vui mừng tại trung tâm hội nghị Suburban Showplace Collection.
+Ông Trump đã giành chiến thắng tại hàng loạt bang chiến trường trọng yếu gồm Pennsylvania, Bắc Carolia, Georgia, Wisconsin, vượt ngưỡng 270 đại cử tri để đắc cử tổng thống.
+Người ủng hộ ông Trump bật khóc vì vui mừng tại trung tâm hội nghị Suburban Showplace Collection.
+Ông Trump đã giành chiến thắng tại hàng loạt bang chiến trường trọng yếu gồm Pennsylvania, Bắc Carolia, Georgia, Wisconsin, vượt ngưỡng 270 đại cử tri để đắc cử tổng thống.
+Stephanie Smith (trái), Sandi Steinbeck (giữa) và Thomas Brewer (phải), reo hò tại khách sạn Ahern, Las Vegas.
+Stephanie Smith (trái), Sandi Steinbeck (giữa) và Thomas Brewer (phải), reo hò tại khách sạn Ahern, Las Vegas.
+Người ủng hộ ông Trump chụp ảnh selfie tại Madison, Wisconsin.
+Người ủng hộ đem theo cờ, áp phích, ảnh ông Trump bên ngoài nhà hàng Versailles Cuban ở Miami, Florida.
+Người ủng hộ đem theo cờ, áp phích, ảnh ông Trump bên ngoài nhà hàng Versailles Cuban ở Miami, Florida.
+Nhóm người gốc Arab vỗ tay khi nghe ông Trump phát biểu chiến thắng, tại quán cà phê Lava Java ở Dearborn, Michigan.
+Nhóm người gốc Arab vỗ tay khi nghe ông Trump phát biểu chiến thắng, tại quán cà phê Lava Java ở Dearborn, Michigan.
+Ông Trump phát biểu trên sân khấu ở West Palm Beach, Florida bên cạnh là vợ và con trai út. Ông khẳng định đã "làm nên lịch sử", đồng thời cam kết đem tới "thời kỳ huy hoàng" cho nước Mỹ.
+"Đây là phong trào chưa từng có, thật lòng mà nói, tôi tin đây là phong trào chính trị vĩ đại nhất mọi thời đại. Chưa từng diễn ra điều tương tự ở đất nước này, có thể là cả sau này cũng không có chuyện tương tự", Trump đề cập về phong trào MAGA (Đưa nước Mỹ vĩ đại trở lại) của mình.
+Ông Trump phát biểu trên sân khấu ở West Palm Beach, Florida bên cạnh là vợ và con trai út. Ông khẳng định đã "làm nên lịch sử", đồng thời cam kết đem tới "thời kỳ huy hoàng" cho nước Mỹ.
+"Đây là phong trào chưa từng có, thật lòng mà nói, tôi tin đây là phong trào chính trị vĩ đại nhất mọi thời đại. Chưa từng diễn ra điều tương tự ở đất nước này, có thể là cả sau này cũng không có chuyện tương tự", Trump đề cập về phong trào MAGA (Đưa nước Mỹ vĩ đại trở lại) của mình.
+Hai người phụ nữ ôm chầm lấy nhau trong trung tâm hội nghị hạt Palm Beach.
+Không khí hân hoan bao trùm hội trường trung tâm hội nghị Palm Beach.
+Một người ủng hộ quỳ gối vì xúc động ở khách sạn Ingleside tại Pewaukee, Wisconsin.
+Người ủng hộ ông Trump tại bên ngoài khu nghỉ dưỡng Mar-a-Lago. Video: AFP
+Ảnh: AFP/AP
+================================================================================
+Article 3
+----------------------------------------
+ID: 4812870
+Title: Lãnh đạo thế giới chúc mừng ông Trump
+URL: https://vnexpress.net/lanh-dao-the-gioi-chuc-mung-ong-trump-4812870.html
+
+Content:
+Tổng thống Pháp Emmanuel Macron hôm nay chúc mừng "Tổng thống Donald Trump", nói rằng ông sẵn sàng làm việc với ông Trump bằng "sự tôn trọng và hoài bão" như "chúng ta từng làm trong 4 năm đó".
+Trong bài đăng trên X, ông Macron cho biết mối quan hệ giữa ông với ông Trump dựa trên "niềm tin đôi bên" và hợp tác "vì hòa bình, thịnh vượng hơn nữa".
+Thủ tướng Israel Benjamin Netanyahu ca ngợi chiến thắng của ông Trump là "sự trở lại vĩ đại nhất trong lịch sử". "Đó là khởi đầu mới cho nước Mỹ và cam kết mạnh mẽ đối với liên minh vĩ đại giữa Israel và Mỹ", ông Netanyahu đăng trên X.
+Việc ông Trump được dự báo đắc cử cũng được xem là chiến thắng cho nhiều người Israel, do ông rất ủng hộ đất nước này và có mối quan hệ thân thiết với Thủ tướng Netanyahu.
+Khi kết quả kiểm phiếu bắt đầu có lợi cho ông Trump, Trung Quốc cho biết họ hy vọng hai nước sẽ "chung sống hòa bình".
+"Chúng tôi sẽ tiếp tục cách tiếp cận và xử lý mối quan hệ Trung - Mỹ dựa trên nguyên tắc tôn trọng lẫn nhau, chung sống hòa bình và hợp tác cùng có lợi. Chúng tôi tôn trọng lựa chọn của người dân Mỹ", người phát ngôn Bộ Ngoại giao Mao Ninh cho hay.
+Tổng thư ký NATO Mark Rutte cho rằng việc ông Trump trở lại nắm quyền sẽ giúp duy trì liên minh "vững mạnh".
+"Sự lãnh đạo của ông một lần nữa sẽ đóng vai trò then chốt trong việc duy trì sức mạnh cho liên minh. Tôi mong muốn được hợp tác với ông ấy một lần nữa để thúc đẩy hòa bình thông qua sức mạnh của NATO", Rutte cho hay.
+Thủ tướng Anh Keir Starmer chúc mừng ông Trump vì "chiến thắng lịch sử", đồng thời khẳng định tính bền chặt của mối quan hệ Anh - Mỹ.
+"Là đồng minh thân thiết nhất, hai nước chúng ta sát cánh để bảo vệ các giá trị chung về tự do, dân chủ và đương đầu thử thách. Từ tăng trưởng và an ninh đến đổi mới và công nghệ, tôi biết rằng mối quan hệ đặc biệt giữa Anh và Mỹ sẽ tiếp tục phồn thịnh ở cả hai bờ Đại Tây Dương trong nhiều năm tới", ông nói.
+Tổng thống Ukraine Volodymyr Zelensky cũng chúc mừng "chiến thắng ấn tượng" của ông Trump trong cuộc bầu cử tổng thống Mỹ và nói rằng nhiệm kỳ của Trump sẽ mang đến hòa bình cho Ukraine.
+"Tôi đánh giá cao cam kết của tổng thống Trump đối với cách tiếp cận 'hòa bình thông qua sức mạnh' trong các vấn đề toàn cầu. Đây chính xác là nguyên tắc có thể thực sự mang lại hòa bình công bằng ở Ukraine", ông Zelensky ra tuyên bố cho hay.
+Thủ tướng Ấn Độ Narendra Modi cũng chúc mừng ông Trump vì "chiến thắng lịch sử trong bầu cử". "Khi ngài tiếp nối những thành công của nhiệm kỳ trước, tôi mong muốn được tiếp tục hợp tác với ngài", ông Modi cho biết.
+Ông Trump được dự báo sẽ hội đủ ít nhất 270 phiếu đại cử tri và đắc cử tổng thống, trở thành tổng thống thứ hai trong lịch sử Mỹ đảm nhiệm hai nhiệm kỳ không liên tiếp. Trong bài phát biểu chiến thắng trước người ủng hộ ở bang Florida, ông tuyên bố "đã làm nên lịch sử".
+Dự báo của hãng AP trước đó cho thấy đảng Cộng hòa cũng sẽ kiểm soát ít nhất 51 ghế tại Thượng viện Mỹ, đánh dấu lần đầu tiên họ giành thế đa số tại cơ quan này trong 4 năm qua. Đảng cũng nhiều khả năng giành thế đa số ở Hạ viện.
+Việc đảng Cộng hòa kiểm soát lưỡng viện quốc hội lẫn Nhà Trắng sẽ giúp ông Trump tăng cường đáng kể quyền lực, dễ triển khai các đề xuất chính sách thành luật hơn.
+Huyền Lê (Theo AFP, AP)
+================================================================================
+Article 4
+----------------------------------------
+ID: 4812802
+Title: Người trẻ Việt hào hứng theo dõi bầu cử tổng thống Mỹ
+URL: https://vnexpress.net/nguoi-tre-viet-hao-hung-theo-doi-bau-cu-tong-thong-my-4812802.html
+
+Content:
+Đại sứ quán Mỹ ngày 6/11 tổ chức sự kiện Theo dõi Bầu cử Tổng thống Mỹ tại 19-21 Hai Bà Trưng, Hàng Bài, Hoàn Kiếm. Sự kiện được tổ chức ngoài trời, thu hút nhiều học sinh, sinh viên tham gia.
+Đại sứ quán Mỹ ngày 6/11 tổ chức sự kiện Theo dõi Bầu cử Tổng thống Mỹ tại 19-21 Hai Bà Trưng, Hàng Bài, Hoàn Kiếm. Sự kiện được tổ chức ngoài trời, thu hút nhiều học sinh, sinh viên tham gia.
+Màn hình lớn được đặt trên sân để mọi người có thể theo dõi trực tiếp diễn biến bầu cử.
+Các sinh viên chăm chú theo dõi khi kết quả bầu cử ở các bang được công bố.
+Tuyết Mai, sinh viên ngành quan hệ quốc tế tại Học viện Báo chí và Tuyên truyền, cho biết mọi người đều háo hức tham dự sự kiện và theo dõi kết quả cuộc bầu cử.
+Các sinh viên chăm chú theo dõi khi kết quả bầu cử ở các bang được công bố.
+Tuyết Mai, sinh viên ngành quan hệ quốc tế tại Học viện Báo chí và Tuyên truyền, cho biết mọi người đều háo hức tham dự sự kiện và theo dõi kết quả cuộc bầu cử.
+Khách dự sự kiện có thể tham gia nhiều hoạt động thú vị bên lề như bỏ phiếu giả định.
+Sau khi nhận phiếu bầu từ "nhân viên bầu cử", điền lựa chọn của mình và bỏ phiếu vào thùng giống như bầu cử thật, họ sẽ được tặng một nhãn dán có dòng chữ "Tôi đã bỏ phiếu"
+Khách dự sự kiện có thể tham gia nhiều hoạt động thú vị bên lề như bỏ phiếu giả định.
+Sau khi nhận phiếu bầu từ "nhân viên bầu cử", điền lựa chọn của mình và bỏ phiếu vào thùng giống như bầu cử thật, họ sẽ được tặng một nhãn dán có dòng chữ "Tôi đã bỏ phiếu"
+Thanh Huyền, sinh viên năm ba ngành quan hệ quốc tế tại Học viện Báo chí và Tuyên truyền, bỏ lá phiếu giả định vào thùng.
+Huyền cho biết đây là lần đầu tiên tham gia một sự kiện theo dõi bầu cử Mỹ được tổ chức tại Hà Nội và cảm thấy rất hào hứng với bầu không khí vui nhộn ở đây.
+Sinh viên này tiết lộ đã bỏ phiếu cho ông Donald Trump, do ấn tượng với những thành tựu và đóng góp của cựu tổng thống Mỹ khi còn tại nhiệm.
+Thanh Huyền, sinh viên năm ba ngành quan hệ quốc tế tại Học viện Báo chí và Tuyên truyền, bỏ lá phiếu giả định vào thùng.
+Huyền cho biết đây là lần đầu tiên tham gia một sự kiện theo dõi bầu cử Mỹ được tổ chức tại Hà Nội và cảm thấy rất hào hứng với bầu không khí vui nhộn ở đây.
+Sinh viên này tiết lộ đã bỏ phiếu cho ông Donald Trump, do ấn tượng với những thành tựu và đóng góp của cựu tổng thống Mỹ khi còn tại nhiệm.
+Một hoạt động khác thu hút sự quan tâm là khám phá quầy "Vai trò của Đệ nhất phu nhân/Đệ nhất phu quân Mỹ".
+Tại đây, người tham gia sẽ phải trả lời câu hỏi "Nếu trở thành Đệ nhất phu nhân hoặc Đệ nhất phu quân Mỹ, bạn sẽ cố gắng thúc đẩy điều gì?"
+Một hoạt động khác thu hút sự quan tâm là khám phá quầy "Vai trò của Đệ nhất phu nhân/Đệ nhất phu quân Mỹ".
+Tại đây, người tham gia sẽ phải trả lời câu hỏi "Nếu trở thành Đệ nhất phu nhân hoặc Đệ nhất phu quân Mỹ, bạn sẽ cố gắng thúc đẩy điều gì?"
+Jason (phải), tình nguyện viên tại quầy và là thân nhân của một nhà ngoại giao Mỹ tại Hà Nội, cho biết họ đã nhận được nhiều câu trả lời tuyệt vời.
+"Rất nhiều sinh viên, học sinh đã ghé quầy và đưa ra hàng trăm câu trả lời. Hôm nay là một ngày tốt lành", anh nói.
+Jason cảm thấy bất ngờ trước sự quan tâm lớn của người dân Việt Nam đối với bầu cử tổng thống Mỹ. "Tôi thấy có rất nhiều người muốn tìm hiểu về cách thức cuộc bầu cử hoạt động. Thật là tuyệt khi được biết điều này", anh cho hay.
+Jason (phải), tình nguyện viên tại quầy và là thân nhân của một nhà ngoại giao Mỹ tại Hà Nội, cho biết họ đã nhận được nhiều câu trả lời tuyệt vời.
+"Rất nhiều sinh viên, học sinh đã ghé quầy và đưa ra hàng trăm câu trả lời. Hôm nay là một ngày tốt lành", anh nói.
+Jason cảm thấy bất ngờ trước sự quan tâm lớn của người dân Việt Nam đối với bầu cử tổng thống Mỹ. "Tôi thấy có rất nhiều người muốn tìm hiểu về cách thức cuộc bầu cử hoạt động. Thật là tuyệt khi được biết điều này", anh cho hay.
+Người tham gia cũng trả lời câu hỏi về kiến thức liên quan cuộc bầu cử hay chụp ảnh tại bốt có hình cờ Mỹ và tượng Nữ thần Tự do.
+Hải Linh, học sinh trường THCS Archimedes Academy, cho biết không khí tại sự kiện khác với những gì em tưởng tượng, giống như hoạt động vui chơi hơn là sự kiện chính trị. Em cho biết đã trả lời đúng câu hỏi trong trò chơi thử thách kiến thức về bầu cử Mỹ.
+Sau khi được dán tem chứng nhận đã hoàn thành hết các hoạt động và sở hữu nhãn dán "Tôi đã bỏ phiếu", khách tham dự có thể ra quầy gần cổng để đổi lấy quà tặng mang chủ đề về Mỹ, như quạt, bút, lịch, sổ...
+Người tham gia cũng trả lời câu hỏi về kiến thức liên quan cuộc bầu cử hay chụp ảnh tại bốt có hình cờ Mỹ và tượng Nữ thần Tự do.
+Hải Linh, học sinh trường THCS Archimedes Academy, cho biết không khí tại sự kiện khác với những gì em tưởng tượng, giống như hoạt động vui chơi hơn là sự kiện chính trị. Em cho biết đã trả lời đúng câu hỏi trong trò chơi thử thách kiến thức về bầu cử Mỹ.
+Sau khi được dán tem chứng nhận đã hoàn thành hết các hoạt động và sở hữu nhãn dán "Tôi đã bỏ phiếu", khách tham dự có thể ra quầy gần cổng để đổi lấy quà tặng mang chủ đề về Mỹ, như quạt, bút, lịch, sổ...
+Đại sứ Mỹ tại Việt Nam Marc Knapper ghé thăm các quầy hoạt động tại sự kiện, trong đó có trò nhìn hình đoán tổng thống Mỹ.
+Ông chia sẻ cảm xúc tự hào khi được chứng kiến nhiều người có mặt tại đây, trong có không ít người trẻ, để giao lưu và tìm hiểu về bầu cử tổng thống Mỹ.
+Đại sứ Mỹ tại Việt Nam Marc Knapper ghé thăm các quầy hoạt động tại sự kiện, trong đó có trò nhìn hình đoán tổng thống Mỹ.
+Ông chia sẻ cảm xúc tự hào khi được chứng kiến nhiều người có mặt tại đây, trong có không ít người trẻ, để giao lưu và tìm hiểu về bầu cử tổng thống Mỹ.
+Đại sứ Knapper cho biết bất kể kết quả bầu cử tổng thống thế nào, quan hệ Việt - Mỹ sẽ tiếp tục được duy trì và phát triển mạnh mẽ.
+"Chúng tôi tin thành công của Việt Nam chính là thành công của Mỹ và ngược lại. Chúng tôi sẽ cùng Việt Nam tiến về phía trước", ông nhấn mạnh.
+Ảnh: Giang Huy
+Đại sứ Knapper cho biết bất kể kết quả bầu cử tổng thống thế nào, quan hệ Việt - Mỹ sẽ tiếp tục được duy trì và phát triển mạnh mẽ.
+"Chúng tôi tin thành công của Việt Nam chính là thành công của Mỹ và ngược lại. Chúng tôi sẽ cùng Việt Nam tiến về phía trước", ông nhấn mạnh.
+Ảnh: Giang Huy
+================================================================================
+Article 5
+----------------------------------------
+ID: 4812787
+Title: Đảng Cộng hòa giành đa số Thượng viện Mỹ
+URL: https://vnexpress.net/dang-cong-hoa-gianh-da-so-thuong-vien-my-4812787.html
+
+Content:
+Dự báo của hãng tin AP hôm nay cho thấy đảng Cộng hòa sẽ kiểm soát ít nhất 51 ghế tại Thượng viện Mỹ, đánh dấu lần đầu tiên đảng này giành đa số tại cơ quan này trong vòng 4 năm qua.
+Kết quả được công bố sau khi thượng nghị sĩ Deb Fischer, đại diện phe Cộng hòa tại bang Nebraska, đánh bại đối thủ là ứng viên độc lập Dan Osborn.
+Đảng Cộng hòa trước đó cũng giành một ghế từ phe Dân chủ tại Tây Virginia, khi ứng viên Jim Justice thay thế thượng nghị sĩ Joe Manchin sắp về hưu. Nỗ lực của đảng Dân chủ nhằm đánh bại thượng nghị sĩ Ted Cruz ở Texas và Rick Scott tại Florida cũng không thành công.
+Quốc hội Mỹ gồm Hạ viện và Thượng viện, là nhánh lập pháp trong chính quyền liên bang, phụ trách soạn thảo và ban hành các luật. Hạ viện gồm 435 ghế nghị sĩ có nhiệm kỳ hai năm, Thượng viện gồm 100 ghế thượng nghị sĩ, nhiệm kỳ 6 năm.
+Theo bộ phận dự đoán bầu cử Decision Desk HQ của The Hill, đảng Cộng hòa có 53% cơ hội để giữ thế kiểm soát Hạ viện.
+Nếu cựu tổng thống Donald Trump đắc cử, đảng Cộng hòa sẽ kiểm soát lưỡng viện quốc hội lẫn Nhà Trắng, sẽ giúp tân tổng thống tăng cường đáng kể quyền lực, dễ triển khai các đề xuất chính sách thành luật hơn. Nếu người đắc cử là bà Kamala Harris, chương trình nghị sự của tổng thống phe Dân chủ sẽ gặp trở ngại đáng kể trong 4 năm tới, khi đảng của bà không kiểm soát được quốc hội.
+Nếu đảng Cộng hòa thắng Thượng viện còn đảng Dân chủ kiểm soát Hạ viện, đây sẽ là lần đầu tiên lưỡng viện Mỹ "lật kép". Nếu tình huống này xảy ra cùng với việc ông Trump đắc cử, đây là một cú "lật ba" hiếm thấy.
+Vũ Anh (Theo Reuters)
+================================================================================
+Article 6
+----------------------------------------
+ID: 4812603
+Title: Cử tri kiện Elon Musk vì không chọn ngẫu nhiên người nhận một triệu USD
+URL: https://vnexpress.net/cu-tri-kien-elon-musk-vi-khong-chon-ngau-nhien-nguoi-nhan-mot-trieu-usd-4812603.html
+
+Content:
+Robert Alvarez, cử tri bang Michigan, và Jacqueline McAferty, cử tri bang Arizona, ngày 5/11 đệ các đơn kiện riêng biệt chống lại ông Elon Musk và America PAC, siêu ủy ban hành động chính trị ủng hộ cựu tổng thống Donald Trump.
+Hai cử tri tại hai bang chiến trường này có hành động pháp lý một ngày sau khi luật sư Chris Gober của tỷ phú Musk cho biết American PAC không chọn ngẫu nhiên người được nhận một triệu USD.
+Ông Musk và America PAC hồi tháng 10 phát động sáng kiến tặng tiền cho cử tri tại một trong 7 bang chiến trường, đã ký kiến nghị ủng hộ các tu chính án về tự do ngôn luận, tự do sở hữu súng trong Hiến pháp. Nhiều bên chỉ trích chương trình vi phạm luật liên bang về cấm chi tiền để thuyết phục người khác đăng ký bỏ phiếu.
+America PAC ngày 20/10 sửa thông điệp, nói người chiến thắng được chọn để "kiếm một triệu USD trên tư cách phát ngôn viên cho America PAC". Ủy ban này đã trao thưởng 16 tấm séc một triệu USD.
+Công tố viên ở Pennsylvania sau đó kiện ông Musk và America PAC với cáo buộc chương trình là "xổ số bất hợp pháp". Trong phiên điều trần ngày 4/11, luật sư Gober cho biết nhóm của ông Musk và America PAC "biết chính xác ai sẽ là người nhận được tiền, theo lựa chọn thông qua đánh giá tiềm năng trong vai trò phát ngôn viên". Thẩm phán Pennsylvania cuối cùng từ chối ban lệnh chặn chương trình phát thưởng của ông Musk ở bang này.
+Trong đơn kiện lên tòa án liên bang ở Michigan, Robert Alvarez ở Michigan cáo buộc Musk và America PAC "gian lận và vi phạm hợp đồng". McAferty ở Arizona khởi kiện với những cáo buộc tương tự, yêu cầu tòa đồng ý coi đây là một vụ kiện tập thể với số nguyên đơn tiềm năng hơn một triệu người.
+"Nếu biết không có cơ hội nhận một triệu USD, McAferty đã không cung cấp thông tin cá nhân riêng tư, không ký hay ủng hộ kiến nghị của America PAC", đơn kiện nêu.
+Ông Musk và America PAC chưa bình luận về các vụ kiện mới.
+Trong cuộc đua vào Nhà Trắng năm 2024, tỷ phú giàu nhất thế giới Musk đã trao gần 120 triệu USD cho America PAC, khiến nhóm này trở thành một phần quan trọng trong nỗ lực tranh cử của Trump. Cựu tổng thống Mỹ đã hứa sẽ bổ nhiệm Musk làm bộ trưởng Bộ Hiệu suất Chính phủ (DOGE) nếu ông tái đắc cử.
+Đức Trung (Theo AP, CNN, Hill)
+================================================================================
+Article 7
+----------------------------------------
+ID: 4810598
+Title: Ông Trump áp đảo ở các bang chiến trường
+URL: https://vnexpress.net/giang-co-o-7-bang-chien-truong-dinh-doat-bau-cu-my-4810598.html
+
+Content:
+Bang chiến trường là thuật ngữ được dùng để chỉ những bang có số phiếu đại cử tri lớn và không ứng viên đảng nào giành lợi thế rõ ràng trong các cuộc bầu cử. Năm nay, 7 bang gồm Arizona, Georgia, Michigan, Nevada, Bắc Carolina, Pennsylvania và Wisconsin là những địa điểm định đoạt kết quả bầu cử.
+Mỗi ứng viên đều có một số bang chiến trường được cho là "phải thắng" trên hành trình đạt 270 phiếu đại cử tri để đắc cử tổng thống. Pennsylvania và Georgia giữ vai trò quan trọng là hai bang "phải thắng" như vậy, do có số phiếu đại cử tri lớn, lần lượt là 19 và 16.
+Đây là hai nơi mà các ứng viên đã dành nhiều thời gian, năng lượng và tiền bạc để vận động trong giai đoạn tranh cử. Ông Trump và bà Harris đã chi gần 86 triệu USD cho quảng cáo ở Pennsylvania từ 22/7. Tại Georgia, ông Trump đã chi 25,4 triệu USD, trong khi số tiền bà Harris bỏ ra là 17,5 triệu USD, theo công ty theo dõi quảng cáo AdImpact.
+Như Tâm - Thanh Tâm
+================================================================================
+Article 8
 ----------------------------------------
 ID: 4812723
 Title: Tâm trạng người Mỹ trong lúc chờ kết quả bầu cử
@@ -62,23 +203,7 @@ Allyson DeFelice, 49 tuổi, đại lý bất động sản đến từ Delray B
 Anh dự đoán ông Trump chắc chắn thắng, lưu ý "quan tâm chính của mọi người trong 4 năm qua là lạm phát, giá hàng hóa, khí đốt, mọi chuyện đang diễn ra ở biên giới. Đảng Dân chủ đã phá hủy những gì ông ấy xây dựng ở đất nước này. Ngay cả trong thời kỳ Covid, ông ấy vẫn xoay sở để tái thiết nền kinh tế nhưng sau đó, phe Dân chủ lại phá hủy nó".
 Hồng Hạnh (Theo Guardian)
 ================================================================================
-Article 3
-----------------------------------------
-ID: 4812787
-Title: Đảng Cộng hòa giành đa số Thượng viện Mỹ
-URL: https://vnexpress.net/dang-cong-hoa-gianh-da-so-thuong-vien-my-4812787.html
-
-Content:
-Dự báo của hãng tin AP hôm nay cho thấy đảng Cộng hòa sẽ kiểm soát ít nhất 51 ghế tại Thượng viện Mỹ, đánh dấu lần đầu tiên đảng này giành đa số tại cơ quan này trong vòng 4 năm qua.
-Kết quả được công bố sau khi thượng nghị sĩ Deb Fischer, đại diện phe Cộng hòa tại bang Nebraska, đánh bại đối thủ là ứng viên độc lập Dan Osborn.
-Đảng Cộng hòa trước đó cũng giành một ghế từ phe Dân chủ tại Tây Virginia, khi ứng viên Jim Justice thay thế thượng nghị sĩ Joe Manchin sắp về hưu. Nỗ lực của đảng Dân chủ nhằm đánh bại thượng nghị sĩ Ted Cruz ở Texas và Rick Scott tại Florida cũng không thành công.
-Quốc hội Mỹ gồm Hạ viện và Thượng viện, là nhánh lập pháp trong chính quyền liên bang, phụ trách soạn thảo và ban hành các luật. Hạ viện gồm 435 ghế nghị sĩ có nhiệm kỳ hai năm, Thượng viện gồm 100 ghế thượng nghị sĩ, nhiệm kỳ 6 năm.
-Theo bộ phận dự đoán bầu cử Decision Desk HQ của The Hill, đảng Cộng hòa có 53% cơ hội để giữ thế kiểm soát Hạ viện.
-Nếu cựu tổng thống Donald Trump đắc cử, đảng Cộng hòa sẽ kiểm soát lưỡng viện quốc hội lẫn Nhà Trắng, sẽ giúp tân tổng thống tăng cường đáng kể quyền lực, dễ triển khai các đề xuất chính sách thành luật hơn. Nếu người đắc cử là bà Kamala Harris, chương trình nghị sự của tổng thống phe Dân chủ sẽ gặp trở ngại đáng kể trong 4 năm tới, khi đảng của bà không kiểm soát được quốc hội.
-Nếu đảng Cộng hòa thắng Thượng viện còn đảng Dân chủ kiểm soát Hạ viện, đây sẽ là lần đầu tiên lưỡng viện Mỹ "lật kép". Nếu tình huống này xảy ra cùng với việc ông Trump đắc cử, đây là một cú "lật ba" hiếm thấy.
-Vũ Anh (Theo Reuters)
-================================================================================
-Article 4
+Article 9
 ----------------------------------------
 ID: 4812730
 Title: Barron Trump lần đầu đi bỏ phiếu
@@ -95,7 +220,7 @@ Trong những ngày cuối cùng của mùa bầu cử 2024, ứng viên đảng
 Tính đến thời điểm hiện tại, ông Trump đã thắng ở Bắc Carolina, bang chiến trường đầu tiên, giành được tổng cộng 230 phiếu đại cử tri. Hai ứng viên tiếp tục bám đuổi về phiếu bầu phổ thông ở 6 bang chiến trường còn lại.
 Đức Trung (Theo Times Now, US Sun, USA Today)
 ================================================================================
-Article 5
+Article 10
 ----------------------------------------
 ID: 4812674
 Title: Vui, buồn của phe Cộng hòa - Dân chủ khi ông Trump dẫn trước
@@ -113,7 +238,7 @@ Chris Wills, người sáng lập tổ chức Cubanos Pa' Kamala và là nhà t�
 "Trong đảng vẫn còn nhiều xu hướng đối lập nhau, kéo nhau đi chậm lại. Đáng lẽ chúng tôi cần sự hợp tác, chia sẻ thông tin và nguồn lực vận động, cùng chung chí hướng trong mùa bầu cử. Đảng Cộng hòa luôn vượt trội về điều này. Họ từng chia rẽ về ông Trump, nhưng giờ đây đang tiến bước cùng nhau", Wills thừa nhận.
 Thanh Danh (Từ Florida)
 ================================================================================
-Article 6
+Article 11
 ----------------------------------------
 ID: 4812752
 Title: Nevada gặp rắc rối vì cử tri trẻ không biết ký tên
@@ -127,7 +252,7 @@ Theo các quan chức bầu cử, phiếu bầu qua thư vẫn được tính n�
 Trong các mùa bầu cử gần đây, Nevada kiểm phiếu chậm hơn nhiều so với các bang khác. Đây là một trong 7 bang chiến trường bên cạnh Arizona, Georgia, Michigan, Bắc Carolina, Pennsylvania và Wisconsin sẽ định đoạt kết quả bầu cử 2024. Ông Trump đã thắng ở Bắc Carolina.
 Nguyễn Tiến (Theo CNN, AP, AFP)
 ================================================================================
-Article 7
+Article 12
 ----------------------------------------
 ID: 4812592
 Title: Nước Mỹ trong ngày bầu cử
@@ -182,7 +307,7 @@ Phòng kiểm đếm phiếu ở Fairburn, bang Georgia, đêm 5/11.
 Georgia và Pennsylvania là hai bang chiến trường giữ vai trò quan trọng hàng đầu với hai ứng viên, do có số phiếu đại cử tri lớn, lần lượt là 16 và 19.
 Ảnh: AFP
 ================================================================================
-Article 8
+Article 13
 ----------------------------------------
 ID: 4812571
 Title: Những người nhập cư Mỹ nêu lý do bầu cho ông Trump
@@ -207,25 +332,7 @@ Bà cho rằng tình trạng người nước ngoài vượt biên hoặc trốn
 "Tôi yêu người nhập cư. Tôi cũng là người nhập cư. Nhưng chúng ta không thể mở cửa cho đủ mọi loại người vào Mỹ. Những kẻ nhập cư bất hợp pháp đang giết và cướp tài sản chúng tôi, theo nghĩa đen. Tình hình đang ngày càng tệ hơn", Yesneia nói, lặp lại quan điểm được ứng viên Cộng hòa đưa ra.
 Thanh Danh (Từ Florida)
 ================================================================================
-Article 9
-----------------------------------------
-ID: 4812603
-Title: Cử tri kiện Elon Musk vì không chọn ngẫu nhiên người nhận một triệu USD
-URL: https://vnexpress.net/cu-tri-kien-elon-musk-vi-khong-chon-ngau-nhien-nguoi-nhan-mot-trieu-usd-4812603.html
-
-Content:
-Robert Alvarez, cử tri bang Michigan, và Jacqueline McAferty, cử tri bang Arizona, ngày 5/11 đệ các đơn kiện riêng biệt chống lại ông Elon Musk và America PAC, siêu ủy ban hành động chính trị ủng hộ cựu tổng thống Donald Trump.
-Hai cử tri tại hai bang chiến trường này có hành động pháp lý một ngày sau khi luật sư Chris Gober của tỷ phú Musk cho biết American PAC không chọn ngẫu nhiên người được nhận một triệu USD.
-Ông Musk và America PAC hồi tháng 10 phát động sáng kiến tặng tiền cho cử tri tại một trong 7 bang chiến trường, đã ký kiến nghị ủng hộ các tu chính án về tự do ngôn luận, tự do sở hữu súng trong Hiến pháp. Nhiều bên chỉ trích chương trình vi phạm luật liên bang về cấm chi tiền để thuyết phục người khác đăng ký bỏ phiếu.
-America PAC ngày 20/10 sửa thông điệp, nói người chiến thắng được chọn để "kiếm một triệu USD trên tư cách phát ngôn viên cho America PAC". Ủy ban này đã trao thưởng 16 tấm séc một triệu USD.
-Công tố viên ở Pennsylvania sau đó kiện ông Musk và America PAC với cáo buộc chương trình là "xổ số bất hợp pháp". Trong phiên điều trần ngày 4/11, luật sư Gober cho biết nhóm của ông Musk và America PAC "biết chính xác ai sẽ là người nhận được tiền, theo lựa chọn thông qua đánh giá tiềm năng trong vai trò phát ngôn viên". Thẩm phán Pennsylvania cuối cùng từ chối ban lệnh chặn chương trình phát thưởng của ông Musk ở bang này.
-Trong đơn kiện lên tòa án liên bang ở Michigan, Robert Alvarez ở Michigan cáo buộc Musk và America PAC "gian lận và vi phạm hợp đồng". McAferty ở Arizona khởi kiện với những cáo buộc tương tự, yêu cầu tòa đồng ý coi đây là một vụ kiện tập thể với số nguyên đơn tiềm năng hơn một triệu người.
-"Nếu biết không có cơ hội nhận một triệu USD, McAferty đã không cung cấp thông tin cá nhân riêng tư, không ký hay ủng hộ kiến nghị của America PAC", đơn kiện nêu.
-Ông Musk và America PAC chưa bình luận về các vụ kiện mới.
-Trong cuộc đua vào Nhà Trắng năm 2024, tỷ phú giàu nhất thế giới Musk đã trao gần 120 triệu USD cho America PAC, khiến nhóm này trở thành một phần quan trọng trong nỗ lực tranh cử của Trump. Cựu tổng thống Mỹ đã hứa sẽ bổ nhiệm Musk làm bộ trưởng Bộ Hiệu suất Chính phủ (DOGE) nếu ông tái đắc cử.
-Đức Trung (Theo AP, CNN, Hill)
-================================================================================
-Article 10
+Article 14
 ----------------------------------------
 ID: 4812584
 Title: Cử tri ủng hộ ông Trump về kinh tế, bà Harris về quyền phá thai
@@ -243,19 +350,7 @@ Vấn đề quyền phá thai thu hút sự quan tâm sau khi Tòa án Tối cao
 Khoảng 170 triệu cử tri Mỹ ngày 5/11 đã đi bỏ phiếu tại các điểm bầu cử trên khắp đất nước, lựa chọn lãnh đạo đất nước trong nhiệm kỳ 4 năm tới. Nhiều bang sẽ công bố kết quả ngay trong ngày bầu cử.
 Như Tâm (Theo AP, CNN)
 ================================================================================
-Article 11
-----------------------------------------
-ID: 4810598
-Title: Ông Trump áp đảo ở các bang chiến trường
-URL: https://vnexpress.net/giang-co-o-7-bang-chien-truong-dinh-doat-bau-cu-my-4810598.html
-
-Content:
-Bang chiến trường là thuật ngữ được dùng để chỉ những bang có số phiếu đại cử tri lớn và không ứng viên đảng nào giành lợi thế rõ ràng trong các cuộc bầu cử. Năm nay, kết quả kiểm phiếu tại 7 bang chiến trường, gồm Arizona, Georgia, Michigan, Nevada, Bắc Carolina, Pennsylvania và Wisconsin, sẽ quyết định Donald Trump hay Kamala Harris sẽ chiến thắng.
-Mỗi ứng viên đều có một số bang chiến trường được cho là "phải thắng" trên hành trình đạt 270 phiếu đại cử tri để đắc cử tổng thống. Pennsylvania và Georgia giữ vai trò quan trọng là hai bang "phải thắng" như vậy, do có số phiếu đại cử tri lớn, lần lượt là 19 và 16.
-Đây là hai nơi mà các ứng viên đã dành nhiều thời gian, năng lượng và tiền bạc để vận động trong giai đoạn tranh cử. Ông Trump và bà Harris đã chi gần 86 triệu USD cho quảng cáo ở Pennsylvania từ 22/7. Tại Georgia, ông Trump đã chi 25,4 triệu USD, trong khi số tiền bà Harris bỏ ra là 17,5 triệu USD, theo công ty theo dõi quảng cáo AdImpact.
-Như Tâm - Thanh Tâm
-================================================================================
-Article 12
+Article 15
 ----------------------------------------
 ID: 4811304
 Title: Truyền thông Mỹ xướng tên người đắc cử thế nào
@@ -290,46 +385,7 @@ Họ cũng đang chuẩn bị cho một mùa bầu cử có thể mất nhiều 
 "Nếu chênh lệch chỉ vài nghìn phiếu, việc xác định ứng viên thắng sẽ cần rất nhiều thời gian", Rick Klein, trưởng bộ phận tin tức chính trị của ABC News, nói.
 Như Tâm (Theo AP, FT, 13 News)
 ================================================================================
-Article 13
-----------------------------------------
-ID: 4810347
-Title: Lý do Mỹ khó công bố người chiến thắng ngay đêm bầu cử
-URL: https://vnexpress.net/ly-do-my-kho-cong-bo-nguoi-chien-thang-ngay-dem-bau-cu-4810347.html
-
-Content:
-Ngày 5/11, khoảng 200 triệu cử tri khắp nước Mỹ sẽ bỏ phiếu lựa chọn tân tổng thống giữa hai ứng viên là ông Donald Trump, đảng Cộng hòa và bà Kamala Harris, đảng Dân chủ. Thời gian bắt đầu bầu cử do giới chức từng địa phương quyết định, nhưng nhìn chung trong khoảng 6-8h.
-Cử tri nhiều vùng ở bang Vermont có thể bỏ phiếu từ 5h, thị trấn nhỏ Dixville Notch, bang New Hampshire thậm chí bắt đầu bầu cử từ 0h (12h ngày 5/11 giờ Hà Nội), một số hạt ở bang Iowa phải chờ đến gần trưa. Hầu hết điểm bỏ phiếu đóng cửa vào 19-20h cùng ngày. Quá trình kiểm phiếu bắt đầu ngay sau đó và kết quả được các ủy ban bầu cử cập nhật liên tục.
-Đa số các bang đều đã nghiêng về một trong hai đảng, có thể sớm xác định ứng viên thắng ở nhóm này. Nhưng chìa khóa để vào Nhà Trắng lại nằm ở 7 bang chiến trường Arizona, Georgia, Michigan, Nevada, Bắc Carolina, Pennsylvania và Wisconsin, nơi hai ứng viên bám đuổi nhau sít sao, cần chờ kiểm hết phiếu để đảm bảo chính xác. Ngoài ra, mỗi bang lại có quy định riêng về quy trình kiểm phiếu, khiến Mỹ khó xác định người chiến thắng ngay trong đêm bầu cử.
-"Tôi nghĩ phải gần cuối tuần, ngày 7 hoặc 8/11, chúng ta mới biết được ai đắc cử", David Becker, giám đốc điều hành Trung tâm Đổi mới và Nghiên cứu Bầu cử Mỹ (CEIR), nói.
-Pennsylvania năm nay có 19 phiếu đại cử tri, được coi là nơi cần phải thắng với cả ông Trump và bà Harris. Năm 2020, bầu cử Mỹ diễn ra ngày 3/11 nhưng phải đến gần trưa 7/11, ông Joe Biden mới được dự báo thắng Pennsylvania và đắc cử, sau khi dẫn trước ông Trump với số phiếu không thể vượt qua.
-Nguyên nhân là ảnh hưởng từ đại dịch Covid-19 khiến lượng phiếu qua thư ở Mỹ cao kỷ lục. Pennsylvania có gần 2,6 triệu người bỏ phiếu qua thư, chiếm 38% tổng cử tri bang. Tỷ lệ này năm 2016 chỉ là 4%. Việc kiểm phiếu qua thư sẽ mất nhiều thời gian hơn so với các hình thức bầu cử khác.
-Kathy Boockvar, cựu tổng thư ký bang Pennsylvania, cho biết tình hình năm nay sẽ khác, bởi các quan chức bầu cử đã có 4 năm để chuẩn bị, mua thiết bị mới và chuẩn bị nhân sự kiểm phiếu qua thư tốt hơn, nhưng nhiều khả năng vẫn không thể biết ai thắng ai thua trong đêm bầu cử.
-"Điều chúng tôi ưu tiên là kiểm phiếu an toàn, chính xác, sau đó mới đến tốc độ nhanh nhất có thể", Boockvar nói với CBS News.
-Nếu chênh lệch giữa hai ứng viên quá sít sao, mọi thứ sẽ mất thời gian hơn nữa. Theo quy định, Pennsylvania sẽ tự động tiến hành kiểm phiếu lại nếu chênh lệch giữa hai ứng viên dưới 0,5%. Bang cũng cho phép ứng viên kiến nghị kiểm lại phiếu nếu họ trả toàn bộ chi phí. Số tiền này có thể được hoàn lại nếu xác định được phiếu đã bị kiểm sai.
-Tại bang chiến trường Georgia, cử tri thường đi bầu cử trực tiếp sớm và quá trình kiểm phiếu diễn ra tương đối nhanh. Lượng phiếu bầu qua thư năm nay dự kiến thấp. Tỷ lệ phiếu bầu qua thư năm 2020 là 25%, giảm còn 6% trong bầu cử giữa kỳ năm 2022.
-Năm 2020, Georgia mất hơn hai tuần để xác định ông Biden chiến thắng. Nguyên nhân là cuộc đua tại đây sít sao đến mức dấy lên tranh cãi, buộc giới chức bang thực hiện thêm kiểm đếm bằng tay.
-Georgia không tự động kiểm lại phiếu, nhưng ứng viên có thể kiến nghị để thực hiện quá trình này nếu chênh lệch không quá 0,5% tổng phiếu bầu.
-Hầu hết cử tri Bắc Carolina bỏ phiếu trực tiếp và bang này thường hoàn thành 98-99% công việc trước nửa đêm ngày bầu cử trong hai sự kiện gần nhất.
-Bắc Carolina trước đây bắt đầu kiểm phiếu qua thư từ trước ngày bầu cử, kết quả công bố ban đầu chủ yếu là từ kiểm đếm phiếu bầu cử sớm. Năm nay, bang áp dụng quy định mới, chỉ cho phép bắt đầu kiểm phiếu và công bố kết quả khi các hòm phiếu đã đóng cửa, khiến thời gian kéo dài hơn.
-Bà Harris có thể dẫn trước từ sớm nhờ phiếu bầu qua thư, còn ông Trump thu hẹp dần khoảng cách khi phiếu bầu trực tiếp trong ngày 5/11 được kiểm. Nếu hai ứng viên chênh lệnh quá sít sao, Bắc Carolina có thể cần một tuần hoặc nhiều thời gian hơn để kiểm đếm. Năm 2020, truyền thông Mỹ phải chờ đến ngày 13/11, 10 ngày sau bầu cử, để xác định ông Trump thắng Bắc Carolina.
-Bắc Carolina không tự động kiểm lại phiếu, nhưng ứng viên có thể kiến nghị để thực hiện nếu chênh lệch không quá 0,5% hoặc 10.000 phiếu.
-Trong hai mùa bầu cử gần nhất, khoảng nửa số phiếu tại Michigan được kiểm xong trong đêm bầu cử, phần còn lại hoàn thành vào trưa ngày tiếp theo.
-Giới chức bang đã thay đổi quy định nhằm tăng tốc quá trình kiểm phiếu. Michigan lần đầu tiên cho phép bỏ phiếu sớm trực tiếp 9 ngày trước bầu cử. Khu vực có hơn 5.000 cử tri có thể xử lý và kiểm đếm phiếu bầu qua thư trước những nơi còn lại.
-Năm 2020, phiếu bầu qua thư tại Michigan không được kiểm đếm sớm. Điều này làm xuất hiện "sóng đỏ ảo", ông Trump dẫn trước trong đêm bầu cử nhờ phiếu bầu trực tiếp, nhưng khi phiếu bầu qua thư đổ về và được kiểm đếm, Michigan "chuyển xanh" và ông Biden chiến thắng. Tình trạng này được ông Trump nhắc đến khi cáo buộc cuộc bầu cử năm 2020 có gian lận.
-Michigan sẽ tự động kiểm lại phiếu nếu hai ứng viên chênh nhau không quá 2.000 phiếu.
-Wisconsin không kiểm phiếu trước ngày bầu cử, nhưng nhân viên kiểm phiếu được yêu cầu làm việc xuyên đêm 5/11 cho đến khi hoàn thành. Tại một số khu vực, kết quả được công bố theo từng lô phiếu.
-Một quan chức Wisconsin nói với CNN rằng kết quả đầy đủ, nhưng chưa xác nhận, có thể được công bố vào sáng 6/11.
-Wisconsin năm 2020 cũng xảy ra hiện tượng "sóng đỏ ảo", khi kết quả kiểm đếm phiếu bầu trực tiếp cho thấy ông Trump liên tục dẫn trước. Tuy nhiên, mọi thứ thay đổi khi hàng nghìn phiếu bầu từ Milwaukee, khu vực có truyền thống ủng hộ đảng Dân chủ, đổ về, giúp ông Biden lật ngược tình thế và chiến thắng vào chiều sau ngày bầu cử. Điều này càng làm dấy lên các thuyết âm mưu cho rằng có gian lận tại Wisconsin.
-Wisconsin không tự động kiểm lại phiếu, nhưng ứng viên có thể kiến nghị thực hiện nếu chênh lệch không quá 1%. Ông Trump năm 2020 đã yêu cầu Wisconsin kiểm lại, nhận thêm được một số phiếu nhưng không đủ để thay đổi kết quả.
-Tại Arizona, bỏ phiếu qua thư là phương thức rất phổ biến. Năm 2020, 90% cử tri bang này bỏ phiếu sớm, hầu hết qua thư. Giới chức bầu cử Arizona có thể bắt đầu xác thực và kiểm đếm ngay khi tiếp nhận phiếu bầu, nhưng chỉ được công bố kết quả một giờ sau khi hòm phiếu đóng cửa.
-Phiếu bầu qua thư đến vào ngày bầu cử không được kiểm đếm ngay lập tức, mà phải chờ hòm phiếu đóng cửa. Trong bầu cử giữa kỳ năm 2022, nhóm này chiếm 1/5 tổng phiếu của Maricopa, hạt đông dân nhất bang Arizona, và mất nhiều ngày để kiểm đếm.
-Trong những mùa bầu cử gần đây, khoảng nửa số cử tri Nevada bỏ phiếu qua thư, điều khiến thời gian kiểm đếm kéo dài. Giới chức Nevada đã áp dụng công nghệ mới và quy tắc cho phép họ bắt đầu kiểm phiếu sớm hơn.
-Francisco Aguilar, tổng thư ký bang Nevada, nói những thay đổi giúp họ "tăng cường minh bạch, đối phó thông tin sai lệch và giảm áp lực lên quan chức bầu cử".
-Tuy nhiên, Nevada năm nay cũng khó công bố kết quả sớm, khi bỏ phiếu qua thư đang ngày càng phổ biến ở bang này. Nevada còn là bang chiến trường duy nhất chấp nhận phiếu bầu qua thư đến muộn, lên tới 4 ngày so với ngày bầu cử, tức ngày 9/11, và cử tri có hạn chót 12/11 để sửa lỗi trên phiếu bầu của họ.
-Năm 2020, truyền thông Mỹ mất 5 ngày để xác định ứng viên thắng Nevada, làm dấy lên hàng loạt ảnh chế về bang này.
-Như Tâm (Theo Yahoo News, Reuters)
-================================================================================
-Article 14
+Article 16
 ----------------------------------------
 ID: 4812306
 Title: Người Mỹ gốc Việt nêu lý do bầu cho Trump, Harris
@@ -359,7 +415,7 @@ Long cùng nhiều người thân, bạn bè gốc Việt ủng hộ bà Harris,
 "Nước Mỹ sẽ đi về đâu trong 4 năm tới phụ thuộc rất nhiều vào kết quả cuộc bầu cử này. Nếu ông Trump đắc cử, tình trạng phân cực chính trị có thể gia tăng, dẫn đến các chính sách bảo thủ mạnh mẽ hơn, trong khi nhiệm kỳ của Harris sẽ tập trung vào các cải cách tiến bộ, nhưng sẽ vấp phản đối lớn từ phía Cộng hòa", Long nói.
 Đức Trung
 ================================================================================
-Article 15
+Article 17
 ----------------------------------------
 ID: 4812574
 Title: Thủ tướng Israel sa thải Bộ trưởng Quốc phòng
@@ -376,7 +432,7 @@ Chiến dịch của Israel tại Dải Gaza đã khiến hơn 43.300 người t
 Xung đột Israel - Hamas cũng thu hút nhiều lực lượng do Tehran hậu thuẫn tham gia nỗ lực chống Tel Aviv, trong đó đáng chú ý nhất là lực lượng Hezbollah.
 Huyền Lê (Theo AFP, Times of Israel)
 ================================================================================
-Article 16
+Article 18
 ----------------------------------------
 ID: 4812524
 Title: Người dân khắp thế giới theo dõi bầu cử tổng thống Mỹ
@@ -439,7 +495,7 @@ Làng Thulasendrapuram từng thu hút sự chú ý khi tổ chức cầu nguy�
 Hàng chục triệu cử tri Mỹ đang đi bỏ phiếu bầu tổng thống. Nhiều bang sẽ công bố kết quả ngay trong Ngày bầu cử, nhưng quá trình kiểm phiếu tại một số bang chiến trường có thể kéo dài, khiến người chiến thắng khó có thể được xác định ngay.
 Ảnh: AFP, AP
 ================================================================================
-Article 17
+Article 19
 ----------------------------------------
 ID: 4812566
 Title: Nga cáo buộc Ukraine định chiếm nhà máy điện hạt nhân ở Kursk
@@ -457,7 +513,7 @@ Sau giai đoạn đầu bị bất ngờ, quân đội Nga đã củng cố lự
 Trong khi đó, lực lượng Nga đạt nhiều bước tiến, đặc biệt trên mặt trận Donetsk,dù phải đối phó chiến dịch của Ukraine nhằm vào tỉnh Kursk. AFP cuối tháng 10 nhận định Nga đang "tiến nhanh chưa từng thấy" kể từ khi rút quân khỏi thủ đô Kiev và khu vực miền bắc Ukraine vào tháng 3/2022, một tháng sau khi chiến sự bùng phát.
 Nguyễn Tiến (Theo AFP, RIA Novosti, AP)
 ================================================================================
-Article 18
+Article 20
 ----------------------------------------
 ID: 4812516
 Title: Nỗi stress của cử tri Mỹ trong kỳ bầu cử
@@ -491,7 +547,7 @@ Nhưng trên hết, Fields muốn đất nước sẽ đoàn kết hơn, bất k
 "Chúng ta cần đoàn kết vì lợi ích chung. Tôi sẽ tập trung vào điều đó khi chúng ta có người chiến thắng. Bởi vì mặc dù tôi không đồng ý với lựa chọn của những người ủng hộ phe bên kia, họ có quyền làm việc đó. Nước Mỹ là như vậy", Fields nói.
 Vũ Hoàng (Theo AFP, Reuters)
 ================================================================================
-Article 19
+Article 21
 ----------------------------------------
 ID: 4812442
 Title: Cách giới chức Mỹ ngăn 'phiếu bầu ma'
@@ -516,7 +572,46 @@ Hansen thêm rằng bà chưa từng đối mặt sự giám sát chặt chẽ n
 "Chúng tôi đang cố gắng làm việc thật cẩn thận", bà nói.
 Thùy Lâm (Theo WSJ)
 ================================================================================
-Article 20
+Article 22
+----------------------------------------
+ID: 4810347
+Title: Lý do Mỹ khó công bố người chiến thắng ngay đêm bầu cử
+URL: https://vnexpress.net/ly-do-my-kho-cong-bo-nguoi-chien-thang-ngay-dem-bau-cu-4810347.html
+
+Content:
+Ngày 5/11, khoảng 200 triệu cử tri khắp nước Mỹ sẽ bỏ phiếu lựa chọn tân tổng thống giữa hai ứng viên là ông Donald Trump, đảng Cộng hòa và bà Kamala Harris, đảng Dân chủ. Thời gian bắt đầu bầu cử do giới chức từng địa phương quyết định, nhưng nhìn chung trong khoảng 6-8h.
+Cử tri nhiều vùng ở bang Vermont có thể bỏ phiếu từ 5h, thị trấn nhỏ Dixville Notch, bang New Hampshire thậm chí bắt đầu bầu cử từ 0h (12h ngày 5/11 giờ Hà Nội), một số hạt ở bang Iowa phải chờ đến gần trưa. Hầu hết điểm bỏ phiếu đóng cửa vào 19-20h cùng ngày. Quá trình kiểm phiếu bắt đầu ngay sau đó và kết quả được các ủy ban bầu cử cập nhật liên tục.
+Đa số các bang đều đã nghiêng về một trong hai đảng, có thể sớm xác định ứng viên thắng ở nhóm này. Nhưng chìa khóa để vào Nhà Trắng lại nằm ở 7 bang chiến trường Arizona, Georgia, Michigan, Nevada, Bắc Carolina, Pennsylvania và Wisconsin, nơi hai ứng viên bám đuổi nhau sít sao, cần chờ kiểm hết phiếu để đảm bảo chính xác. Ngoài ra, mỗi bang lại có quy định riêng về quy trình kiểm phiếu, khiến Mỹ khó xác định người chiến thắng ngay trong đêm bầu cử.
+"Tôi nghĩ phải gần cuối tuần, ngày 7 hoặc 8/11, chúng ta mới biết được ai đắc cử", David Becker, giám đốc điều hành Trung tâm Đổi mới và Nghiên cứu Bầu cử Mỹ (CEIR), nói.
+Pennsylvania năm nay có 19 phiếu đại cử tri, được coi là nơi cần phải thắng với cả ông Trump và bà Harris. Năm 2020, bầu cử Mỹ diễn ra ngày 3/11 nhưng phải đến gần trưa 7/11, ông Joe Biden mới được dự báo thắng Pennsylvania và đắc cử, sau khi dẫn trước ông Trump với số phiếu không thể vượt qua.
+Nguyên nhân là ảnh hưởng từ đại dịch Covid-19 khiến lượng phiếu qua thư ở Mỹ cao kỷ lục. Pennsylvania có gần 2,6 triệu người bỏ phiếu qua thư, chiếm 38% tổng cử tri bang. Tỷ lệ này năm 2016 chỉ là 4%. Việc kiểm phiếu qua thư sẽ mất nhiều thời gian hơn so với các hình thức bầu cử khác.
+Kathy Boockvar, cựu tổng thư ký bang Pennsylvania, cho biết tình hình năm nay sẽ khác, bởi các quan chức bầu cử đã có 4 năm để chuẩn bị, mua thiết bị mới và chuẩn bị nhân sự kiểm phiếu qua thư tốt hơn, nhưng nhiều khả năng vẫn không thể biết ai thắng ai thua trong đêm bầu cử.
+"Điều chúng tôi ưu tiên là kiểm phiếu an toàn, chính xác, sau đó mới đến tốc độ nhanh nhất có thể", Boockvar nói với CBS News.
+Nếu chênh lệch giữa hai ứng viên quá sít sao, mọi thứ sẽ mất thời gian hơn nữa. Theo quy định, Pennsylvania sẽ tự động tiến hành kiểm phiếu lại nếu chênh lệch giữa hai ứng viên dưới 0,5%. Bang cũng cho phép ứng viên kiến nghị kiểm lại phiếu nếu họ trả toàn bộ chi phí. Số tiền này có thể được hoàn lại nếu xác định được phiếu đã bị kiểm sai.
+Tại bang chiến trường Georgia, cử tri thường đi bầu cử trực tiếp sớm và quá trình kiểm phiếu diễn ra tương đối nhanh. Lượng phiếu bầu qua thư năm nay dự kiến thấp. Tỷ lệ phiếu bầu qua thư năm 2020 là 25%, giảm còn 6% trong bầu cử giữa kỳ năm 2022.
+Năm 2020, Georgia mất hơn hai tuần để xác định ông Biden chiến thắng. Nguyên nhân là cuộc đua tại đây sít sao đến mức dấy lên tranh cãi, buộc giới chức bang thực hiện thêm kiểm đếm bằng tay.
+Georgia không tự động kiểm lại phiếu, nhưng ứng viên có thể kiến nghị để thực hiện quá trình này nếu chênh lệch không quá 0,5% tổng phiếu bầu.
+Hầu hết cử tri Bắc Carolina bỏ phiếu trực tiếp và bang này thường hoàn thành 98-99% công việc trước nửa đêm ngày bầu cử trong hai sự kiện gần nhất.
+Bắc Carolina trước đây bắt đầu kiểm phiếu qua thư từ trước ngày bầu cử, kết quả công bố ban đầu chủ yếu là từ kiểm đếm phiếu bầu cử sớm. Năm nay, bang áp dụng quy định mới, chỉ cho phép bắt đầu kiểm phiếu và công bố kết quả khi các hòm phiếu đã đóng cửa, khiến thời gian kéo dài hơn.
+Bà Harris có thể dẫn trước từ sớm nhờ phiếu bầu qua thư, còn ông Trump thu hẹp dần khoảng cách khi phiếu bầu trực tiếp trong ngày 5/11 được kiểm. Nếu hai ứng viên chênh lệnh quá sít sao, Bắc Carolina có thể cần một tuần hoặc nhiều thời gian hơn để kiểm đếm. Năm 2020, truyền thông Mỹ phải chờ đến ngày 13/11, 10 ngày sau bầu cử, để xác định ông Trump thắng Bắc Carolina.
+Bắc Carolina không tự động kiểm lại phiếu, nhưng ứng viên có thể kiến nghị để thực hiện nếu chênh lệch không quá 0,5% hoặc 10.000 phiếu.
+Trong hai mùa bầu cử gần nhất, khoảng nửa số phiếu tại Michigan được kiểm xong trong đêm bầu cử, phần còn lại hoàn thành vào trưa ngày tiếp theo.
+Giới chức bang đã thay đổi quy định nhằm tăng tốc quá trình kiểm phiếu. Michigan lần đầu tiên cho phép bỏ phiếu sớm trực tiếp 9 ngày trước bầu cử. Khu vực có hơn 5.000 cử tri có thể xử lý và kiểm đếm phiếu bầu qua thư trước những nơi còn lại.
+Năm 2020, phiếu bầu qua thư tại Michigan không được kiểm đếm sớm. Điều này làm xuất hiện "sóng đỏ ảo", ông Trump dẫn trước trong đêm bầu cử nhờ phiếu bầu trực tiếp, nhưng khi phiếu bầu qua thư đổ về và được kiểm đếm, Michigan "chuyển xanh" và ông Biden chiến thắng. Tình trạng này được ông Trump nhắc đến khi cáo buộc cuộc bầu cử năm 2020 có gian lận.
+Michigan sẽ tự động kiểm lại phiếu nếu hai ứng viên chênh nhau không quá 2.000 phiếu.
+Wisconsin không kiểm phiếu trước ngày bầu cử, nhưng nhân viên kiểm phiếu được yêu cầu làm việc xuyên đêm 5/11 cho đến khi hoàn thành. Tại một số khu vực, kết quả được công bố theo từng lô phiếu.
+Một quan chức Wisconsin nói với CNN rằng kết quả đầy đủ, nhưng chưa xác nhận, có thể được công bố vào sáng 6/11.
+Wisconsin năm 2020 cũng xảy ra hiện tượng "sóng đỏ ảo", khi kết quả kiểm đếm phiếu bầu trực tiếp cho thấy ông Trump liên tục dẫn trước. Tuy nhiên, mọi thứ thay đổi khi hàng nghìn phiếu bầu từ Milwaukee, khu vực có truyền thống ủng hộ đảng Dân chủ, đổ về, giúp ông Biden lật ngược tình thế và chiến thắng vào chiều sau ngày bầu cử. Điều này càng làm dấy lên các thuyết âm mưu cho rằng có gian lận tại Wisconsin.
+Wisconsin không tự động kiểm lại phiếu, nhưng ứng viên có thể kiến nghị thực hiện nếu chênh lệch không quá 1%. Ông Trump năm 2020 đã yêu cầu Wisconsin kiểm lại, nhận thêm được một số phiếu nhưng không đủ để thay đổi kết quả.
+Tại Arizona, bỏ phiếu qua thư là phương thức rất phổ biến. Năm 2020, 90% cử tri bang này bỏ phiếu sớm, hầu hết qua thư. Giới chức bầu cử Arizona có thể bắt đầu xác thực và kiểm đếm ngay khi tiếp nhận phiếu bầu, nhưng chỉ được công bố kết quả một giờ sau khi hòm phiếu đóng cửa.
+Phiếu bầu qua thư đến vào ngày bầu cử không được kiểm đếm ngay lập tức, mà phải chờ hòm phiếu đóng cửa. Trong bầu cử giữa kỳ năm 2022, nhóm này chiếm 1/5 tổng phiếu của Maricopa, hạt đông dân nhất bang Arizona, và mất nhiều ngày để kiểm đếm.
+Trong những mùa bầu cử gần đây, khoảng nửa số cử tri Nevada bỏ phiếu qua thư, điều khiến thời gian kiểm đếm kéo dài. Giới chức Nevada đã áp dụng công nghệ mới và quy tắc cho phép họ bắt đầu kiểm phiếu sớm hơn.
+Francisco Aguilar, tổng thư ký bang Nevada, nói những thay đổi giúp họ "tăng cường minh bạch, đối phó thông tin sai lệch và giảm áp lực lên quan chức bầu cử".
+Tuy nhiên, Nevada năm nay cũng khó công bố kết quả sớm, khi bỏ phiếu qua thư đang ngày càng phổ biến ở bang này. Nevada còn là bang chiến trường duy nhất chấp nhận phiếu bầu qua thư đến muộn, lên tới 4 ngày so với ngày bầu cử, tức ngày 9/11, và cử tri có hạn chót 12/11 để sửa lỗi trên phiếu bầu của họ.
+Năm 2020, truyền thông Mỹ mất 5 ngày để xác định ứng viên thắng Nevada, làm dấy lên hàng loạt ảnh chế về bang này.
+Như Tâm (Theo Yahoo News, Reuters)
+================================================================================
+Article 23
 ----------------------------------------
 ID: 4812551
 Title: Lý do ông Trump vẫn được bỏ phiếu dù đã bị kết tội
@@ -533,7 +628,7 @@ Trong cuộc bầu cử năm 2018, bang Florida thông qua sáng kiến về vi�
 Sau đó một năm, các nhà lập pháp bang bãi bỏ sáng kiến này, yêu cầu những người đã thụ án xong phải chi trả mọi chi phí do tòa án yêu cầu trước đó mới được phép đi bỏ phiếu. Quá trình này có thể sẽ rất rườm rà, do không có hệ thống nào được thiết lập để giám sát việc thanh toán trên.
 Phạm Giang (Theo CNN, ABC News, Reuters)
 ================================================================================
-Article 21
+Article 24
 ----------------------------------------
 ID: 4812547
 Title: Tiêm kích Ấn Độ 'xoay như lá vàng' khi rơi xuống đất
@@ -548,7 +643,7 @@ MiG-29 là tiêm kích hạng nhẹ thế hệ 4 được Liên Xô phát triể
 Lần gần nhất tiêm kích MiG-29 Ấn Độ gặp tai nạn là ngày 2/9, khi một máy bay rơi tại bang Rajasthan vì "trục trặc kỹ thuật nghiêm trọng". Hồi đầu tháng 12/2023, một chiếc MiG-29K bị nổ lốp ở sân bay Dabolim thuộc bang Goa khi đang di chuyển ra đường băng để cất cánh.
 Nguyễn Tiến (Theo AP, Hindustan Times)
 ================================================================================
-Article 22
+Article 25
 ----------------------------------------
 ID: 4812478
 Title: Người Ấn Độ tới đền thờ cầu nguyện cho bà Harris đắc cử
@@ -566,7 +661,7 @@ Bà Harris chưa từng đến Thulasendrapuram, cũng như không có người 
 Bà cũng chưa có nhiều chuyến thăm đến Ấn Độ, nhưng từng kể về kỷ niệm thời thơ ấu tới gặp ông ngoại ở Chennai và nói về di sản Ấn Độ đã tác động tới cuộc đời và sự nghiệp của mình thế nào.
 Đức Trung (Theo Reuters, Guardian, Times of India)
 ================================================================================
-Article 23
+Article 26
 ----------------------------------------
 ID: 4812154
 Title: Ẩn số từ cử tri thầm lặng trong bầu cử Mỹ
@@ -600,7 +695,7 @@ Các cuộc thăm dò đã vẽ nên một bức tranh không đồng nhất v�
 Cuộc khảo sát cho thấy hai ứng viên ngang nhau trong số các cử tri đã đăng ký trên toàn quốc về số phiếu bầu trực tiếp, nhưng Trump đã vươn lên dẫn trước một điểm khi các ứng viên độc lập và bên thứ ba có tên trong danh sách lựa chọn. Dù vậy, khảo sát này vẫn chưa thể tính được các cử tri thầm lặng có thể ủng hộ bà Harris hoặc ông Trump nhưng không nói ra lựa chọn của mình.
 Vũ Hoàng (Theo WSJ, AFP, Reuters)
 ================================================================================
-Article 24
+Article 27
 ----------------------------------------
 ID: 4811827
 Title: Máy bỏ phiếu bầu tổng thống Mỹ hoạt động như thế nào?
@@ -615,7 +710,7 @@ Cách thứ hai để bỏ và kiểm phiếu là sử dụng Thiết bị Đán
 Một số thiết bị BMD chỉ thuần túy có chức năng đánh dấu, cử tri cần mang ra một máy scan khác ở gần đó để quét phiếu đã in. Tuy nhiên, các nhà sản xuất đã cho ra đời thiết bị BMD kết hợp quét, tiêu biểu là máy ExpressVote XL. Nhà sản xuất ước tính trung bình 60 cử tri có thể hoàn thành bỏ phiếu trên một thiết bị trong một giờ.
 Phạm Giang (Video: WSAV News 3, Essvote)
 ================================================================================
-Article 25
+Article 28
 ----------------------------------------
 ID: 4812341
 Title: Phát biểu khép lại chiến dịch tranh cử của Trump - Harris
@@ -625,7 +720,7 @@ Content:
 Bà Harris nhấn mạnh thông điệp đoàn kết khi phát biểu khép lại chiến dịch, trong khi ông Trump hướng mũi dùi về đối thủ.
 Phạm Giang (Video: Washington Post)
 ================================================================================
-Article 26
+Article 29
 ----------------------------------------
 ID: 4812512
 Title: Thủ tướng tặng chân dung Chủ tịch Hồ Chí Minh cho khu di tích ở Vân Nam
@@ -643,7 +738,7 @@ Chuyến công tác tới Trung Quốc của Thủ tướng Phạm Minh Chính d
 Trung Quốc liên tục là đối tác thương mại lớn nhất và là thị trường xuất khẩu lớn thứ hai của Việt Nam. Việt Nam là đối tác thương mại lớn nhất của Trung Quốc trong ASEAN và đối tác thương mại lớn thứ năm của Trung Quốc trên thế giới. Năm 2023, tổng kim ngạch thương mại hai nước đạt 171,9 tỷ USD. Thương mại 8 tháng đầu năm đạt 130,78 tỷ USD, tăng 25%.
 Nguyễn Tiến (Theo TTXVN)
 ================================================================================
-Article 27
+Article 30
 ----------------------------------------
 ID: 4812455
 Title: Ông Trump cáo buộc 'gian lận tràn lan' ở Philadelphia
@@ -701,7 +796,7 @@ Kerstin Emhoff, vợ cũ của Đệ nhị phu quân Doug Emhoff, đã đăng vi
 "Tôi rất xúc động khi xem những video đầy cảm xúc được mọi người đăng tải sau khi bỏ phiếu cho Kamala và Tim", bà cho hay. "Các bang Dân chủ và Cộng hòa, hãy bỏ phiếu vì con gái chúng ta, vì những người vợ và các chị em. Đây chính là thời khắc đó. Tôi tự hào đã bỏ phiếu cho người bạn và cũng là gia đình của tôi, Kamala Harris".
 Kerstin Emhoff ủng hộ mạnh mẽ chiến dịch của bà Harris và từng tham dự Đại hội Toàn quốc đảng Dân chủ tại Chicago.
 ================================================================================
-Article 28
+Article 31
 ----------------------------------------
 ID: 4812468
 Title: Vua Tây Ban Nha được ca ngợi vì đứng vững trước đám đông ném bùn
@@ -722,7 +817,7 @@ Vua Felipe từng phải hứng chịu những tiếng la ó khi tham gia lễ t
 Sau chuyến thăm Paiporta, ông đã họp với Thủ tướng Sanchez và giới chức ứng phó khẩn cấp ở Valencia, yêu cầu "đem lại hy vọng cho người dân bị ảnh hưởng bởi lũ lụt, đáp ứng nhu cầu và đảm bảo nhà nước luôn bên họ".
 Đức Trung (Theo AP, CNN, El Mundo)
 ================================================================================
-Article 29
+Article 32
 ----------------------------------------
 ID: 4812291
 Title: Ông Zelensky: Nga phóng UAV vào Ukraine nhiều gấp 10 lần năm ngoái
@@ -740,7 +835,7 @@ Theo Kovalenko, quân đội Nga trong tháng 10 cũng không tiến hành các 
 Nga và Ukraine gần đây liên tục tập kích các mục tiêu trên lãnh thổ nhau, trong đó có căn cứ quân sự và hạ tầng năng lượng. Giới chức Ukraine từng thừa nhận các cơ sở quốc phòng nằm trong số mục tiêu bị Nga tập kích, song thường không nêu chi tiết khi nhắc đến chúng.
 Nguyễn Tiến (Theo War Zone, UNN, AFP)
 ================================================================================
-Article 30
+Article 33
 ----------------------------------------
 ID: 4812405
 Title: Hà mã 'ngôi sao' của Thái Lan dự đoán ông Trump đắc cử
@@ -753,7 +848,7 @@ Moo Deng trở thành hiện tượng mạng xã hội từ khi người chăm s
 Moo Deng rất nổi tiếng ở Mỹ. Nó từng được nhắc đến trong tiểu phẩm của diễn viên hài Bowen Yang trong chương trình Saturday Night Live. Moo Deng cũng đánh bại cả ông Trump lẫn bà Harris trong cuộc thăm dò tổng thống phi chính thức do "The Tonight Show" tổ chức, giành hơn 93% phiếu bầu.
 Hồng Hạnh (Theo AFP)
 ================================================================================
-Article 31
+Article 34
 ----------------------------------------
 ID: 4812390
 Title: Ông Trump chọn 'thành phố đặc biệt' làm điểm vận động cuối cùng
@@ -777,7 +872,7 @@ Nếu các cuộc thăm dò chính xác, cuộc đua ở Michigan một lần n�
 Hơn 1,2 triệu người Michigan đã bỏ phiếu sớm và hơn hai triệu người bầu qua thư tính đến sáng 4/11. Cả hai chiến dịch đều tập trung vào Michigan, cho thấy tầm quan trọng của bang chiến trường này.
 Huyền Lê (Theo CNN, AFP, Bridgemi)
 ================================================================================
-Article 32
+Article 35
 ----------------------------------------
 ID: 4812160
 Title: Những gia đình Mỹ bất đồng quan điểm vì bầu cử tổng thống
@@ -816,7 +911,7 @@ Trong thông điệp khép lại chiến dịch tranh cử, bà Harris cố gắ
 Trong khi đó, ông Trump tiếp tục khẳng định nước Mỹ đã rất tốt đẹp dưới thời ông. "Chúng ta có biên giới an toàn nhất lịch sử đất nước vào ngày tôi rời đi. Đáng lẽ tôi không nên rời đi. Chúng tôi đã làm rất tốt và có được những điều tuyệt vời", ông nói.
 Thùy Lâm (Theo WSJ, SBS News)
 ================================================================================
-Article 33
+Article 36
 ----------------------------------------
 ID: 4812167
 Title: UAV Lancet có thể đã tập kích hơn 2.500 mục tiêu ở Ukraine
@@ -826,7 +921,7 @@ Content:
 Nhà sản xuất Nga tuyên bố UAV Lancet đã tập kích hơn 2.500 mục tiêu Ukraine, nhưng con số thực tế có thể cao hơn.
 Phạm Giang (Video: ZALA Aero)
 ================================================================================
-Article 34
+Article 37
 ----------------------------------------
 ID: 4812177
 Title: Những hình ảnh định hình mùa bầu cử tổng thống Mỹ
@@ -894,7 +989,7 @@ Gia đình và người ủng hộ cổ vũ bà Harris trong bài phát biểu t
 Cuộc tranh luận tại Pennsylvania hôm 10/9 được coi là một thắng lợi với bà Harris, giúp bà thu hẹp khoảng cách với ông Trump. Đến sát ngày bầu cử, tỷ lệ ủng hộ giữa hai ứng viên gần như ngang nhau, khiến đây được coi là cuộc bầu cử sít sao nhất trong lịch sử Mỹ.
 Ảnh: Reuters/AFP/AP
 ================================================================================
-Article 35
+Article 38
 ----------------------------------------
 ID: 4812264
 Title: Người dẫn chương trình podcast nổi tiếng tuyên bố ủng hộ ông Trump
@@ -912,7 +1007,7 @@ Cuộc thăm dò của YouGov năm ngoái cho thấy 81% người nghe của Rog
 Trước Rogan, nhiều người nổi tiếng cũng ủng hộ ông Trump, như tỷ phú Musk, đô vật Hulk Hogan. Bà Harris nhận được sự ủng hộ từ nhiều người nổi tiếng theo chủ nghĩa tự do, như siêu sao bóng rổ Lebron James, các nữ ca sĩ Beyonce, Taylor Swift.
 Huyền Lê (Theo Reuters, AFP)
 ================================================================================
-Article 36
+Article 39
 ----------------------------------------
 ID: 4812201
 Title: Ông Trump nói bà Harris 'nên đấu với Mike Tyson'
@@ -932,7 +1027,7 @@ Thành phố Reading là một trong những điểm dừng chân cuối cùng c
 Ông Trump, 78 tuổi, là một trong những ứng viên lớn tuổi nhất tranh cử tổng thống Mỹ. Dù bị truy tố hình sự và vướng vào vụ bạo loạn tại tòa nhà quốc hội 4 năm trước, cựu tổng thống vẫn bước vào ngày bầu cử với tỷ lệ ủng hộ sít sao so với đối thủ.
 Huyền Lê (Theo CNN, AFP)
 ================================================================================
-Article 37
+Article 40
 ----------------------------------------
 ID: 4811297
 Title: Cách người Mỹ bỏ phiếu và kiểm đếm kết quả bầu cử
@@ -975,7 +1070,7 @@ Derek Tisler, thành viên Trung tâm Công lý bầu cử và chương trình c
 "Niềm tin của công chúng là rất quan trọng đối với nền dân chủ và đó là lý do bầu cử cần minh bạch", Tisler nói.
 Thùy Lâm (Theo Guardian, ABC News, Chicago Tribune)
 ================================================================================
-Article 38
+Article 41
 ----------------------------------------
 ID: 4812179
 Title: Bà Harris gõ cửa nhà dân trước giờ bầu cử
@@ -994,125 +1089,3 @@ Pennsylvania là bang chiến trường quan trọng nhất của cuộc bầu c
 Năm 2016, ông Trump trở thành ứng viên Cộng hòa đầu tiên giành chiến thắng tại Pennsylvania kể từ năm 1988. Tuy nhiên, năm 2020, Tổng thống Joe Biden đảo ngược tình thế, đánh bại ông Trump tại bang này.
 Theo công ty phân tích quảng cáo AdImpact có trụ sở tại bang Virginia, cử tri Pennsylvania đã chứng kiến số quảng cáo tranh cử tổng thống trị giá gần 300 triệu USD của cả hai ứng viên, nhiều nhất so với các bang trên toàn quốc, trong cuộc đua vào Nhà Trắng năm nay.
 Huyền Lê (Theo CNN, AFP)
-================================================================================
-Article 39
-----------------------------------------
-ID: 4812174
-Title: Israel tuyên bố tập kích 'sở chỉ huy tình báo Hezbollah' tại Syria
-URL: https://vnexpress.net/israel-tuyen-bo-tap-kich-so-chi-huy-tinh-bao-hezbollah-tai-syria-4812174.html
-
-Content:
-"Israel không kích từ hướng Cao nguyên Golan, nhắm vào các địa điểm dân sự ở phía nam Damascus và gây ra một số thiệt hại vật chất", hãng thông tấn nhà nước Syria SANA cho biết hôm 4/11, song không đề cập tới thương vong.
-Lực lượng Phòng vệ Israel (IDF) sau đó xác nhận đã thực hiện cuộc không kích, cho biết mục tiêu là "sở chỉ huy đơn vị tình báo của Hezbollah" ở khu Sayyidah Zaynab, ngoại ô Damascus. Đây là lần hiếm hoi IDF thừa nhận tập kích mục tiêu trên lãnh thổ Syria.
-Theo IDF, đơn vị Hezbollah này chịu trách nhiệm thu thập và đánh giá thông tin tình báo ở Syria. Lãnh đạo lực lượng là Hussein Ali Hazima, người thiệt mạng trong trận không kích ngày 4/10 của Israel nhằm vào Beirut, Lebanon.
-Tổ chức Giám sát Nhân quyền Syria (SOHR) có trụ sở tại Anh cho biết hai thành viên Hezbollah thiệt mạng trong trận không kích nhằm vào một ngôi nhà ở Sayyidah Zaynab, thuộc khu vực nghi là cơ sở hoạt động của các thành viên Hezbollah và Vệ binh Cách mạng Hồi giáo Iran.
-Israel nhiều lần không kích các địa điểm tại Syria sau khi nội chiến tại nước này bùng phát. Mục tiêu thường là các nhóm vũ trang có liên hệ với Iran, trong đó có Hezbollah, song đôi khi IDF cũng tấn công vị trí quân đội chính phủ Syria. Giới chức Israel hiếm khi lên tiếng về các đòn tập kích ở Syria, nhưng từng nhiều lần tuyên bố sẽ ngăn chặn Iran tăng cường hiện diện tại nước này.
-IDF gần đây cũng đẩy mạnh không kích biên giới Lebanon - Syria, vô hiệu hóa một số cửa khẩu giữa hai nước kể từ khi xung đột Israel - Hezbollah leo thang. Israel cáo buộc Hezbollah chuyển vũ khí từ Syria vào Lebanon qua các cửa khẩu trên bộ, vốn nằm trên tuyến sơ tán chính của hàng nghìn người dân Lebanon.
-Nguyễn Tiến (Theo AFP, ToI, SANA)
-================================================================================
-Article 40
-----------------------------------------
-ID: 4812119
-Title: Thủ tướng Phạm Minh Chính lên đường tới Trung Quốc
-URL: https://vnexpress.net/thu-tuong-pham-minh-chinh-len-duong-toi-trung-quoc-4812119.html
-
-Content:
-Thủ tướng sáng nay rời Hà Nội, lên đường dự Hội nghị Thượng đỉnh Hợp tác Tiểu vùng Mekong mở rộng (GMS) lần thứ tám, Hội nghị Cấp cao Chiến lược hợp tác kinh tế Ayeyawady - Chao Phraya - Mekong (ACMECS) lần thứ 10, Hội nghị Cấp cao Hợp tác Campuchia - Lào - Myanmar - Việt Nam (CLMV) lần thứ 11 và làm việc tại Trung Quốc ngày 5-8/11.
-Tháp tùng Thủ tướng có Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn Lê Minh Hoan, Bộ trưởng Bộ Khoa học và Công nghệ Huỳnh Thành Đạt, Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc Hầu A Lềnh và các quan chức khác.
-Thứ trưởng Ngoại giao Phạm Thanh Bình cho biết chuyến công tác của Thủ tướng Phạm Minh Chính sẽ tăng cường hợp tác các tiểu vùng, nâng cao tin cậy chính trị giữa các nước thành viên và vị thế, uy tín của Việt Nam.
-GMS là khu vực được gắn kết với nhau bởi sông Mekong, có diện tích 2,6 triệu km vuông, được đánh giá là cơ chế hợp tác tiểu vùng hiệu quả hàng đầu. Các bên tham gia cơ chế này gồm Việt Nam, Lào, Campuchia, Myanmar, Thái Lan và hai tỉnh Vân Nam, Quảng Tây của Trung Quốc.
-ACMECS là khuôn khổ hợp tác kinh tế gồm 5 nước Việt Nam, Lào, Campuchia, Myanmar và Thái Lan, nhằm tăng cường hợp tác kinh tế chung và song phương giữa các vùng, các nước thành viên, nâng cao sức cạnh tranh, thu hẹp khoảng cách phát triển.
-CLMV là cơ chế hợp tác mở, vừa phát huy lợi thế, tiềm năng hợp tác sẵn có của các nước thành viên, vừa là kênh kêu gọi hỗ trợ của các nước ASEAN khác và các đối tác phát triển dành cho các nước CLMV.
-Chuyến công tác tới Trung Quốc của Thủ tướng Phạm Minh Chính diễn ra trong bối cảnh quan hệ Việt - Trung ngày càng phát triển toàn diện và bền vững, với nhiều chuyến thăm cấp cao giữa hai nước và hoạt động hợp tác đa dạng trên nhiều lĩnh vực.
-Trung Quốc liên tục là đối tác thương mại lớn nhất và là thị trường xuất khẩu lớn thứ hai của Việt Nam. Việt Nam là đối tác thương mại lớn nhất của Trung Quốc trong ASEAN và đối tác thương mại lớn thứ năm của Trung Quốc trên thế giới. Năm 2023, tổng kim ngạch thương mại hai nước đạt 171,9 tỷ USD. Thương mại 8 tháng đầu năm đạt 130,78 tỷ USD, tăng 25%.
-Ngọc Ánh (Theo TTXVN)
-================================================================================
-Article 41
-----------------------------------------
-ID: 4811734
-Title: Thông điệp đối chọi của Trump và Harris khi khép lại chiến dịch
-URL: https://vnexpress.net/thong-diep-doi-choi-cua-trump-va-harris-khi-khep-lai-chien-dich-4811734.html
-
-Content:
-Trong ngày chủ nhật cuối cùng của chiến dịch tranh cử tổng thống Mỹ, ứng viên đảng Cộng hòa Donald Trump nỗ lực thu hút ủng hộ tại ba bang chiến trường Pennsylvania, Bắc Carolina và Georgia. Ông đả kích cuộc thăm dò ở bang Iowa, trong đó cho rằng ứng viên đảng Dân chủ Kamala Harris dẫn trước, cũng như cáo buộc có gian lận bầu cử dù không đưa ra bằng chứng.
-Trump phàn nàn rằng nước Mỹ đã suy yếu sau nhiệm kỳ tổng thống của ông, đề cập tới vấn đề kinh tế và nhập cư. Cựu tổng thống nói rằng đáng lẽ ông không nên rời Nhà Trắng năm 2020. "Chúng ta có biên giới an toàn nhất lịch sử đất nước vào ngày tôi rời đi. Đáng lẽ tôi không nên rời đi. Chúng tôi đã làm rất tốt và có được những điều tuyệt vời", ông nói.
-Trong khi đó, Phó tổng thống Kamala Harris dành ngày chủ nhật cuối để vận động tranh cử tại bang chiến trường Michigan. Bà nhấn mạnh loạt đề xuất về kinh tế và y tế, những vấn đề mà các cố vấn cho rằng cần tập trung để thuyết phục nhóm cử tri đảng Dân chủ và độc lập.
-Phó tổng thống Mỹ tập trung thể hiện sự tương phản với ông Trump. Bà Harris nói rằng trong khi đối thủ tập trung vào "danh sách kẻ thù" cần trả đũa, bà muốn chú trọng vào "danh sách những điều cần làm" cho người dân Mỹ, bất kể họ có bầu cho mình hay không.
-Khi đến thăm nhà thờ ở thành phố Detroit, Harris bày tỏ tin tưởng rằng đất nước đã sẵn sàng để quên đi Trump. "Chúng ta hãy sang trang và viết chương tiếp theo của lịch sử đất nước", bà nói.
-Phó tổng thống Harris nói với các phóng viên ở Detroit rằng Donald Trump đang cố làm mất uy tín của cuộc bầu cử và ngăn cản mọi người bỏ phiếu, đây là những điều mà bà hy vọng người Mỹ sẽ tránh xa.
-"Hệ thống bầu cử của chúng ta hoạt động rất tốt và lá phiếu của mọi người sẽ quyết định kết quả bầu cử. Mọi người cần hiểu rằng lá phiếu của họ chính là sức mạnh để định đoạt kết quả. Chúng rất quan trọng", bà nói.
-Chiến dịch của Harris ngày 3/11 phát sóng quảng cáo "thông điệp kết thúc" trong các trận đấu của Liên đoàn Bóng bầu dục Quốc gia suốt cả ngày. Quảng cáo dài 2 phút với tiêu đề "Tương lai tươi sáng hơn" nhằm vạch ra tầm nhìn lạc quan về nước Mỹ dưới sự lãnh đạo của bà Harris.
-Trong tuần cuối cùng, một số đại diện nổi bật cho chiến dịch của đảng Dân chủ cũng tham gia các sự kiện vận động, đáng chú ý là cựu tổng thống Barack Obama. Phát biểu tại thành phố Milwaukee ở bang Wisconsin, ông Obama cố gắng thu hút cử tri da màu và gốc Latin, lập luận rằng cuộc sống của họ sẽ tệ hơn nếu ông Trump tái đắc cử.
-"Tại sao các bạn lại nghĩ đến việc bỏ phiếu cho một người lâu nay luôn hạ thấp và coi thường cộng đồng của mình?", ông nói.
-Trong khi đó, các cố vấn chiến dịch của ông Trump tự tin rằng thông điệp khép lại chiến dịch đang mang lại hiệu quả, khi đảng Cộng hòa dẫn đầu về số cử tri đăng ký và tỷ lệ đi bỏ phiếu sớm ở các bang chiến trường.
-Những bài phát biểu trong vài tuần cuối chiến dịch của ông Trump nhấn mạnh rất nhiều đến vấn đề nhập cư, được xem là chủ đề cốt lõi trong nỗ lực tranh cử của ông từ năm 2015. Cựu tổng thống Mỹ cho rằng vấn đề an ninh biên giới thậm chí quan trọng hơn cả kinh tế. Ông cam kết thực hiện đợt trục xuất người nhập cư không giấy tờ "lớn nhất trong lịch sử" .
-Chiến dịch của ông Trump cũng tiếp tục công kích nhận xét của Tổng thống Biden tuần trước rằng "thứ rác rưởi duy nhất đang trôi nổi ngoài kia là những người ủng hộ Trump". Bình luận của ông Biden đã nhanh chóng trở thành động lực đoàn kết của phong trào MAGA (Đưa nước Mỹ vĩ đại trở lại).
-Ông Trump đã vận động tranh cử trên xe rác ở Wisconsin, trong khi một số người ủng hộ đeo thêm túi rác tham dự cuộc mít tinh của ông.
-"Toàn bộ thông điệp kết thúc của họ đều là 'Donald Trump xấu và những người bỏ phiếu cho ông ấy cũng xấu'. Đó là luận điệu gây chia rẽ nhất và luôn được sử dụng trong các chiến dịch từ trước đến nay", Karoline Leavitt, phát ngôn viên chiến dịch tranh cử của ông Trump, nói.
-Thùy Lâm (Theo Washington Post, AFP, Reuters)
-================================================================================
-Article 42
-----------------------------------------
-ID: 4812161
-Title: Ông Trump, bà Harris vận động giờ chót trước bầu cử
-URL: https://vnexpress.net/ong-trump-ba-harris-van-dong-gio-chot-truoc-bau-cu-4812161.html
-
-Content:
--
-Ông Trump đến muộn trong cuộc mít tinh ở Michigan
-Cựu tổng thống Mỹ dự kiến tham gia cuộc mít tinh cuối cùng trước ngày bầu cử ở Grand Rapids, Michigan, vào 22h30 ngày 4/11 (10h30 ngày 5/11 giờ Hà Nội). Tuy nhiên, tính đến 23h10, ông vẫn chưa xuất hiện tại sự kiện. Nguồn thạo tin cho biết ông Trump có thể chỉ xuất hiện vào gần nửa đêm.
--
-Bà Harris dành ngày cuối trước bầu cử cho bang Pennsylvania
-Trong ngày cuối cùng trước cuộc bầu cử, bà Harris đặt cược hết vào bang chiến trường Pennsylvania khi chỉ tổ chức các cuộc vận động trong bang này. Ngoài các cuộc mít tinh, bà đã đến một nhà hàng Puerto Rico với hạ nghị sĩ Alexandria Ocasio-Cortez và đi gõ cửa từng nhà dân ở thành phố Reading.
--
-Bà Harris tránh nhắc tên ông Trump
-Tương tự các sự kiện vận động tranh cử trước đó, Phó tổng thống Mỹ tránh nhắc tên đối thủ Cộng hòa. "Chúng ta có cơ hội trong cuộc bầu cử này để lật sang trang mới, bước khỏi thập kỷ chính trị bị thúc đẩy bởi nỗi sợ và sự chia rẽ. Chúng ta đã kiệt sức với nó, chúng ta sẽ không quay lại", bà Harris nói.
--
-Bà Harris tổ chức mít tinh ở Pittsburgh
-Phó tổng thống Mỹ tiếp tục vận động cử tri ở bang chiến trường Pennsylvania hôm 4/11, nói với đám đông ủng hộ ở Pittsburgh rằng họ "sẽ tạo ra khác biệt trong cuộc bầu cử".
-"Ngày mai là ngày bầu cử, động lực đang thúc đẩy chúng ta. Chiến dịch của chúng ta đã khai thác được nguyện vọng và mơ ước của người dân Mỹ. Chúng ta biết rằng đã tới lúc cần có thế hệ lãnh đạo mới tại Mỹ", bà Harris nói.
--
-Người dẫn chương trình podcast nổi tiếng ủng hộ Trump
-Joe Rogan, người dẫn chương trình podcast nổi tiếng của Mỹ và có đông đảo khán giả nam theo dõi, tuyên bố ủng hộ cựu tổng thống Trump.
-Ông Trump nói "đã biết tin này" khi đang phát biểu ở Pittsburgh, khiến đám đông ủng hộ hò reo phấn khích.
--
-Ông Trump kết thúc chiến dịch tranh cử ở Pennsylvania
-"Thật buồn vì đây là điều chúng ta đã làm trong 9 năm", cựu tổng thống Trump nói, nhắc lại quãng thời gian thực hiện hai chiến dịch tranh cử tổng thống.
-"Tôi vẫn còn một cuộc mít tinh nữa. Hãy nhớ rằng các cuộc mít tinh luôn là điều thú vị nhất. Sẽ không còn những cuộc vận động như vậy nữa. Không bao giờ", cựu tổng thống nói, nhấn mạnh đây là lần cuối ông tham gia chạy đua vào Nhà Trắng.
--
-Khoảng 12.000 người tham gia cuộc mít tinh của Trump ở Pennsylvania
-Phóng viên kỳ cựu Garrett Haake đăng video về cuộc mít tinhcủa ông Trump ở bang chiến trường Pennsylvania trước thềm bầu cử, ước tính sự kiện có khoảng 10.000-12.000 người tham dự.
-Cựu tổng thống Mỹ gọi các con trai Donald Jr., Eric, con gái Tiffany và con dâu Lara Trump, con rể Michael Boulos lên sân khấu sau bài phát biểu. Ông nhấn mạnh con trai út Barron và con gái cả Ivanka đang theo dõi sự kiện từ xa.
-"Các con của tôi ngoan chứ? Các con đâu rồi?", Trump gọi các con lên sân khấu trong tiếng reo hò lớn của người ủng hộ.
--
-Trump so sánh quy mô hai cuộc mít tinh
-Cựu tổng thống Trump nói lượng người tham gia cuộc mít tinh của ông đông đảo, trong khi sự kiện của bà Harris chỉ là "cuộc mít tinh nhỏ". Cựu tổng thống Mỹ cũng nhắc tới ca sĩ Beyoncé, cho rằng cô ủng hộ ứng viên Dân chủ "để nhận về một tấm séc". Forbes ước tính tài sản ròng của Beyoncé là hơn 700 triệu USD.
-"Chúng ta không cần ngôi sao nào cả. Chúng ta có chính sách, chính sách tuyệt vời", Trump nói.
--
-Bà Harris 'gõ cửa từng nhà' ở Pennsylvania
-Đoàn xe của chiến dịch Harris ngày 4/11 đến khu dân cư ở thành phố Reading, bang Pennsylvania, để vận động từng nhà dân. Đi theo Phó tổng thống Mỹ là hai tình nguyện viên cầm theo khẩu hiệu của chiến dịch.
-"Tôi muốn gõ cửa từng nhà", Harris nói với một gia đình khi gặp gỡ họ.
-Phó tổng thống sau đó tiếp tục đi bộ tới ngôi nhà thứ hai. Người phụ nữ trong nhà ôm bà Harris, cho biết đã bỏ phiếu cho ứng viên Dân chủ và chồng cũng sẽ làm như vậy trong ngày 5/11.
--
-Trump tổ chức mít tinh ở Pennsylvania
-"Chỉ còn một ngày nữa thôi, một ngày nữa thôi. Chúng ta đã chờ 4 năm rồi", cựu tổng thống Mỹ phát biểu trên sân khấu cuộc mít tinh ở Pittsburgh, bang Pennsylvania, trước tiếng reo hò của đám đông ủng hộ.
-Trump nhắc lại vụ ông bị ám sát hụt ở bang này hồi tháng 7, nói rằng nhiều người nghĩ "Chúa đã cứu tôi để tôi cứu nước Mỹ". Ông kêu gọi người dân Pennsylvania ủng hộ, giúp đỡ ông "hoàn thành sứ mệnh phi thường".
-"Cuộc chạm trán với tử thần không ngăn bước chúng ta, nó chỉ khiến chúng ta thêm quyết tâm hoàn thành công việc", Trump nhắc về bản thân ông và phong trào MAGA (Đưa nước Mỹ vĩ đại trở lại).
-================================================================================
-Article 43
-----------------------------------------
-ID: 4812132
-Title: Thẩm phán Pennsylvania cho phép Elon Musk thưởng một triệu USD cho cử tri
-URL: https://vnexpress.net/tham-phan-pennsylvania-cho-phep-elon-musk-thuong-mot-trieu-usd-cho-cu-tri-4812132.html
-
-Content:
-Thẩm phán bang Pennsylvania Angelo Foglietta ngày 4/11 từ chối ban lệnh chặn chương trình của Elon Musk mà không đưa ra giải thích. Ông cho biết sẽ trình bày cụ thể lý do dẫn tới phán quyết này bằng văn bản riêng.
-Phán quyết của thẩm phán Pennsylvania được đưa ra một ngày trước ngày bầu cử 5/11, cũng là ngày cuối America PAC, siêu ủy ban hành động chính trị ủng hộ cựu tổng thống Donald Trump, tặng tấm séc một triệu USD cho một cử tri trong bang chiến trường này.
-America PAC và tỷ phú Musk hồi tháng 10 phát động sáng kiến tặng tiền cho cử tri. Người tham gia phải là cử tri đã đăng ký tại một trong 7 bang chiến trường và đã ký vào bản kiến nghị ủng hộ các tu chính án về quyền tự do ngôn luận, tự do sở hữu súng trong Hiến pháp Mỹ. America PAC đã trao thưởng 16 tấm séc một triệu USD, với 4 tấm dành cho các cử tri ở Pennsylvania.
-Sau khi nhiều bên bày tỏ hoài nghi liệu chương trình này có hợp pháp hay không, America PAC hôm 20/10 chỉnh sửa thông điệp, nói rằng người chiến thắng được chọn "để kiếm 1 triệu USD với tư cách người phát ngôn cho America PAC".
-Công tố viên quận Philadelphia Larry Krasner tuần trước kiện tỷ phú Musk và America PAC, cáo buộc họ tổ chức chương trình "xổ số bất hợp pháp" và yêu cầu tòa án ra lệnh chặn chương trình này. Krasner cũng muốn tìm cách phạt Musk và America PAC.
-Tại phiên điều trần hôm 4/11, luật sư Chris Gober của tỷ phú Musk lập luận rằng America PAC không chọn ngẫu nhiên người được nhận một triệu USD mà thông qua đánh giá tiềm năng của họ trong vai trò người phát ngôn.
-"Những người nhận một triệu USD không được chọn ngẫu nhiên. Chúng tôi biết chính xác ai sẽ là người nhận được khoản tiền này vào hôm nay và ngày mai", luật sư Gober khẳng định.
-Ông Gober cũng lưu ý rằng đợt tặng tiền cuối cùng của America PAC sẽ dành cho những cử tri đã đăng ký ở Arizona và Michigan, không ảnh hưởng đến Pennsylvania.
-Tỷ phú giàu nhất thế giới Musk đã trao gần 120 triệu USD cho America PAC, khiến nhóm này trở thành một phần quan trọng trong nỗ lực tranh cử của Trump. Cựu tổng thống Mỹ đã hứa sẽ bổ nhiệm Musk làm bộ trưởng Bộ Hiệu suất Chính phủ (DOGE) nếu ông tái đắc cử.
-Ngọc Ánh (Theo Hill, AP, Reuters)
