@@ -8,8 +8,16 @@ HEADERS = {
     'Connection': 'keep-alive',
 }
 
-# Base URL for scraping
-BASE_URL = 'https://vnexpress.net/the-gioi'
+# Default scraping configurations
+DEFAULT_CONFIG = {
+    'url': 'https://vnexpress.net/the-gioi',
+    'xpath_selectors': {
+        'article': "//article[@data-offset or @data-swap]",
+        'title': ".//h3/a[@title]",
+        'title_attr': 'title',
+        'url_attr': 'href'
+    }
+}
 
 # Ad patterns in VnExpress
 AD_PATTERNS = [

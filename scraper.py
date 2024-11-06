@@ -8,15 +8,25 @@ import trafilatura
 from lxml import html
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
+import argparse
 
-from config import HEADERS, BASE_URL, MAX_RETRIES, TIMEOUT, EXCEL_SETTINGS, TEXT_SETTINGS
+from config import (
+    HEADERS, DEFAULT_CONFIG, MAX_RETRIES, TIMEOUT,
+    EXCEL_SETTINGS, TEXT_SETTINGS
+)
 from utils import setup_logging, extract_article_id, is_advertisement
 
 class VnExpressScraper:
-    def __init__(self):
+    def __init__(self, url: Optional[str] = None, xpath_config: Optional[Dict] = None):
         setup_logging()
         self.session = requests.Session()
         self.session.headers.update(HEADERS)
+        
+        # Use custom URL if provided, otherwise use default
+        self.url = url if url else DEFAULT_CONFIG['url']
+        
+        # Use custom XPath config if provided, otherwise use default
+        self.xpath_config = xpath_config if xpath_config else DEFAULT_CONFIG['xpath_selectors']
 
     def fetch_page(self, url: str) -> Optional[str]:
         """Fetch page content with retry logic"""
@@ -34,27 +44,27 @@ class VnExpressScraper:
         return None
 
     def parse_articles(self, html_content: str) -> List[Dict]:
-        """Parse article data from HTML content using XPath"""
+        """Parse article data from HTML content using custom XPath selectors"""
         articles = []
         try:
             # Parse HTML using lxml
             tree = html.fromstring(html_content)
             
-            # Find all article elements using XPath
-            article_elements = tree.xpath("//article[@data-offset or @data-swap]")
+            # Find all article elements using custom XPath
+            article_elements = tree.xpath(self.xpath_config['article'])
             logging.info(f"Found {len(article_elements)} potential article elements")
 
             for article in article_elements:
                 try:
-                    # Extract title and URL using XPath
-                    title_elements = article.xpath(".//h3/a[@title]")
+                    # Extract title and URL using custom XPath
+                    title_elements = article.xpath(self.xpath_config['title'])
                     if not title_elements:
                         logging.debug("No title element found")
                         continue
 
                     title_element = title_elements[0]
-                    title = title_element.get('title', '').strip()
-                    url = title_element.get('href', '')
+                    title = title_element.get(self.xpath_config['title_attr'], '').strip()
+                    url = title_element.get(self.xpath_config['url_attr'], '')
 
                     if not title or not url:
                         logging.debug("Missing title or URL")
@@ -207,9 +217,9 @@ class VnExpressScraper:
 
     def run(self):
         """Main scraping process"""
-        logging.info("Starting VnExpress scraper...")
+        logging.info(f"Starting VnExpress scraper for URL: {self.url}")
         
-        html_content = self.fetch_page(BASE_URL)
+        html_content = self.fetch_page(self.url)
         if not html_content:
             logging.error("Failed to fetch content. Exiting...")
             return
@@ -229,6 +239,27 @@ class VnExpressScraper:
         else:
             logging.warning("No articles found to export")
 
+def parse_args():
+    parser = argparse.ArgumentParser(description='VnExpress Web Scraper')
+    parser.add_argument('--url', type=str, help='URL to scrape (default: VnExpress World News)')
+    parser.add_argument('--article-xpath', type=str, help='XPath for article elements')
+    parser.add_argument('--title-xpath', type=str, help='XPath for title elements')
+    parser.add_argument('--title-attr', type=str, help='Attribute name for title')
+    parser.add_argument('--url-attr', type=str, help='Attribute name for URL')
+    return parser.parse_args()
+
 if __name__ == "__main__":
-    scraper = VnExpressScraper()
+    args = parse_args()
+    
+    # Prepare custom XPath config if any arguments are provided
+    xpath_config = None
+    if any([args.article_xpath, args.title_xpath, args.title_attr, args.url_attr]):
+        xpath_config = {
+            'article': args.article_xpath or DEFAULT_CONFIG['xpath_selectors']['article'],
+            'title': args.title_xpath or DEFAULT_CONFIG['xpath_selectors']['title'],
+            'title_attr': args.title_attr or DEFAULT_CONFIG['xpath_selectors']['title_attr'],
+            'url_attr': args.url_attr or DEFAULT_CONFIG['xpath_selectors']['url_attr']
+        }
+    
+    scraper = VnExpressScraper(url=args.url, xpath_config=xpath_config)
     scraper.run()
